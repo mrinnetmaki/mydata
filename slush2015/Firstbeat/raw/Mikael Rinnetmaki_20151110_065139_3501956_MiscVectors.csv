@@ -1,0 +1,1362 @@
+﻿Firstbeat Analysis Server 6.3.9.6
+
+VECTORS
+RMSSD5MinVector;RMSSD1MinVector;CumulativeSecondVector;JournalMarkers;Splits
+12,47;10,58;0;;1
+;14,63;60;;1
+;7,22;120;;1
+;10,50;180;;1
+;17,75;240;;1
+22,74;25,19;300;;1
+;24,68;360;;1
+;19,63;420;;1
+;22,52;480;;1
+;20,93;540;;1
+19,41;18,68;600;;1
+;17,06;660;;1
+;20,05;720;;1
+;21,50;780;;1
+;19,49;840;;1
+19,39;18,39;900;;1
+;21,96;960;;1
+;20,49;1020;;1
+;21,57;1080;;1
+;14,03;1140;;1
+11,65;12,31;1200;;1
+;12,22;1260;;1
+;9,23;1320;;1
+;15,45;1380;;1
+;7,79;1440;;1
+8,86;13,30;1500;;1
+;9,74;1560;;1
+;6,09;1620;;1
+;7,41;1680;;1
+;6,16;1740;;1
+7,55;7,48;1800;;1
+;7,88;1860;;1
+;5,55;1920;;1
+;6,73;1980;;1
+;9,69;2040;;1
+8,06;8,17;2100;;1
+;7,33;2160;;1
+;8,88;2220;;1
+;10,01;2280;;1
+;5,16;2340;;1
+15,27;15,15;2400;;1
+;16,41;2460;;1
+;16,95;2520;;1
+;11,38;2580;;1
+;14,85;2640;;1
+13,47;13,01;2700;;1
+;14,70;2760;;1
+;13,93;2820;;1
+;12,54;2880;;1
+;13,12;2940;;1
+12,58;13,68;3000;;1
+;14,63;3060;;1
+;11,78;3120;;1
+;10,98;3180;;1
+;11,64;3240;;1
+11,13;11,23;3300;;1
+;9,38;3360;;1
+;13,17;3420;;1
+;12,89;3480;;1
+;8,52;3540;Meeting;1
+9,15;9,97;3600;Meeting;1
+;9,83;3660;Meeting;1
+;8,88;3720;Meeting;1
+;9,37;3780;Meeting;1
+;7,32;3840;Meeting;1
+6,77;5,10;3900;Meeting;1
+;5,09;3960;Meeting;1
+;9,71;4020;Meeting;1
+;6,42;4080;Meeting;1
+;6,70;4140;Work-Meeting;1
+7,16;8,11;4200;Work-Meeting;1
+;5,03;4260;Work-Meeting;1
+;5,73;4320;Work-Meeting;1
+;8,98;4380;Work-Meeting;1
+;7,38;4440;Work-Light exercise;1
+7,88;9,48;4500;Work-Light exercise;1
+;6,16;4560;Work-Light exercise;1
+;7,61;4620;Work-Light exercise;1
+;8,07;4680;Work-Light exercise;1
+;8,00;4740;Work-Light exercise;1
+7,59;8,36;4800;Work-Light exercise;1
+;6,53;4860;Work-Light exercise;1
+;6,88;4920;Work-Light exercise;1
+;9,06;4980;Work-Light exercise;1
+;7,04;5040;Work-Light exercise;1
+5,98;6,07;5100;Work-Light exercise;1
+;7,76;5160;Work-Light exercise;1
+;5,43;5220;Work-Light exercise;1
+;4,72;5280;Work-Light exercise;1
+;5,60;5340;Work;1
+5,66;6,62;5400;Work;1
+;4,31;5460;Work;1
+;4,93;5520;Work;1
+;6,45;5580;Work;1
+;5,73;5640;Work;1
+6,08;7,06;5700;Work;1
+;7,59;5760;Work;1
+;4,40;5820;Work;1
+;5,62;5880;Work;1
+;5,19;5940;Work;1
+6,20;5,13;6000;Work;1
+;5,58;6060;Work;1
+;8,64;6120;Work;1
+;6,15;6180;Work;1
+;4,70;6240;Work;1
+7,46;5,90;6300;Work;1
+;5,07;6360;Work;1
+;6,57;6420;Work;1
+;5,63;6480;Work;1
+;11,82;6540;Work;1
+6,85;5,09;6600;Work;1
+;8,95;6660;Work;1
+;3,81;6720;Work;1
+;8,76;6780;Work;1
+;5,89;6840;Work-Light exercise;1
+4,42;5,29;6900;Work-Light exercise;1
+;4,02;6960;Work-Light exercise;1
+;4,18;7020;Work-Light exercise;1
+;4,39;7080;Work-Light exercise;1
+;4,13;7140;Work-Light exercise;1
+4,66;5,56;7200;Work-Light exercise;1
+;4,40;7260;Work-Light exercise;1
+;3,74;7320;Work-Light exercise;1
+;4,57;7380;Work-Light exercise;1
+;4,98;7440;Work-Light exercise;1
+7,60;5,35;7500;Work-Light exercise;1
+;8,76;7560;Work-Light exercise;1
+;6,74;7620;Work-Light exercise;1
+;5,97;7680;Work-Light exercise;1
+;10,34;7740;Work-Meeting;1
+11,09;8,87;7800;Work-Meeting;1
+;10,44;7860;Work-Meeting;1
+;11,13;7920;Work-Meeting;1
+;12,64;7980;Work-Meeting;1
+;12,19;8040;Work-Meeting;1
+9,19;8,56;8100;Work-Meeting;1
+;8,71;8160;Work-Meeting;1
+;10,07;8220;Work-Meeting;1
+;9,63;8280;Work-Meeting;1
+;9,05;8340;Work-Meeting;1
+12,12;12,09;8400;Work-Meeting;1
+;11,06;8460;Work-Meeting;1
+;13,01;8520;Work-Meeting;1
+;12,40;8580;Work-Meeting;1
+;12,12;8640;Work-Meeting;1
+14,18;12,77;8700;Work-Meeting;1
+;11,92;8760;Work-Meeting;1
+;16,93;8820;Work-Meeting;1
+;10,57;8880;Work-Meeting;1
+;17,42;8940;Work-Meeting;1
+11,84;9,68;9000;Work-Meeting;1
+;11,78;9060;Work-Meeting;1
+;9,94;9120;Work-Meeting;1
+;12,43;9180;Work-Meeting;1
+;15,00;9240;Work-Meeting;1
+13,24;11,34;9300;Work-Meeting;1
+;12,76;9360;Work-Meeting;1
+;13,10;9420;Work-Meeting;1
+;16,71;9480;Work-Meeting;1
+;11,51;9540;Work-Meeting;1
+13,42;11,78;9600;Work-Meeting;1
+;14,48;9660;Work-Meeting;1
+;13,66;9720;Work-Meeting;1
+;13,94;9780;Work-Meeting;1
+;13,16;9840;Work-Meeting;1
+14,28;16,07;9900;Work-Meeting;1
+;11,51;9960;Work-Meeting;1
+;17,58;10020;Work-Meeting;1
+;12,73;10080;Work-Meeting;1
+;12,87;10140;Work-Meeting;1
+14,10;17,05;10200;Work-Meeting;1
+;14,65;10260;Work-Meeting;1
+;10,89;10320;Work-Meeting;1
+;14,25;10380;Work-Meeting;1
+;12,82;10440;Work-Meeting;1
+14,00;8,38;10500;Work-Meeting;1
+;20,42;10560;Work-Meeting;1
+;11,14;10620;Work-Meeting;1
+;17,09;10680;Work-Meeting;1
+;9,53;10740;Work;1
+12,80;12,99;10800;Work;1
+;11,57;10860;Work;1
+;11,27;10920;Work;1
+;13,47;10980;Work;1
+;14,59;11040;Work;1
+12,20;18,33;11100;Work;1
+;11,27;11160;Work;1
+;14,57;11220;Work-Light exercise;1
+;7,99;11280;Work-Light exercise;1
+;6,66;11340;Work-Light exercise;1
+4,34;5,98;11400;Work-Light exercise;1
+;4,44;11460;Work-Light exercise;1
+;3,88;11520;Work-Light exercise;1
+;3,73;11580;Work-Light exercise;1
+;3,77;11640;Work-Light exercise;1
+4,54;3,62;11700;Work-Light exercise;1
+;3,64;11760;Work-Light exercise;1
+;5,64;11820;Work-Light exercise;1
+;5,84;11880;Work-Light exercise;1
+;3,50;11940;Work-Light exercise;1
+7,57;5,68;12000;Work-Light exercise;1
+;5,01;12060;Work-Light exercise;1
+;7,80;12120;Work;1
+;9,79;12180;Work;1
+;9,40;12240;Work-Töitä seisten;1
+9,34;6,30;12300;Work-Töitä seisten;1
+;9,24;12360;Work-Töitä seisten;1
+;8,86;12420;Work-Töitä seisten;1
+;11,35;12480;Work-Töitä seisten;1
+;10,19;12540;Work-Töitä seisten;1
+7,50;8,33;12600;Work-Töitä seisten;1
+;9,02;12660;Work-Töitä seisten;1
+;4,34;12720;Work-Töitä seisten;1
+;6,98;12780;Work-Töitä seisten;1
+;7,96;12840;Work-Töitä seisten;1
+7,36;10,31;12900;Work-Töitä seisten;1
+;7,83;12960;Work-Töitä seisten;1
+;6,99;13020;Work-Töitä seisten;1
+;5,32;13080;Work-Töitä seisten;1
+;5,63;13140;Work-Töitä seisten;1
+6,54;5,97;13200;Work-Töitä seisten;1
+;5,93;13260;Work-Töitä seisten;1
+;6,19;13320;Work-Töitä seisten;1
+;7,77;13380;Work-Töitä seisten;1
+;6,66;13440;Work-Töitä seisten;1
+6,86;7,52;13500;Work-Töitä seisten;1
+;7,09;13560;Work-Töitä seisten;1
+;6,07;13620;Work-Töitä seisten;1
+;7,43;13680;Work-Töitä seisten;1
+;6,14;13740;Work-Töitä seisten;1
+7,64;8,36;13800;Work-Töitä seisten;1
+;8,56;13860;Work-Töitä seisten;1
+;5,79;13920;Work-Töitä seisten;1
+;8,08;13980;Work-Töitä seisten;1
+;7,01;14040;Work-Töitä seisten;1
+8,14;7,73;14100;Work-Töitä seisten;1
+;8,68;14160;Work-Töitä seisten;1
+;7,71;14220;Work-Töitä seisten;1
+;5,99;14280;Work-Töitä seisten;1
+;9,99;14340;Work-Töitä seisten;1
+11,27;8,35;14400;Work-Töitä seisten;1
+;11,72;14460;Work-Töitä seisten;1
+;8,56;14520;Work-Töitä seisten;1
+;12,32;14580;Work-Töitä seisten;1
+;14,41;14640;Work-Töitä seisten;1
+16,00;15,01;14700;Work-Töitä seisten;1
+;12,78;14760;Work-Töitä seisten;1
+;15,31;14820;Work-Töitä seisten;1
+;22,21;14880;Work-Töitä seisten;1
+;14,08;14940;Work-Töitä seisten;1
+12,95;13,58;15000;Work-Töitä seisten;1
+;12,04;15060;Work-Töitä seisten;1
+;11,64;15120;Work-Töitä seisten;1
+;12,57;15180;Work-Töitä seisten;1
+;14,66;15240;Work-Töitä seisten;1
+10,45;13,37;15300;Work-Töitä seisten;1
+;11,23;15360;Work-Töitä seisten;1
+;8,47;15420;Work-Töitä seisten;1
+;10,20;15480;Work-Töitä seisten;1
+;8,73;15540;Work-Töitä seisten;1
+10,72;10,86;15600;Work-Töitä seisten;1
+;11,69;15660;Work-Töitä seisten;1
+;9,91;15720;Work-Töitä seisten;1
+;9,36;15780;Work-Töitä seisten;1
+;11,77;15840;Work-Töitä seisten;1
+11,64;13,02;15900;Work-Töitä seisten;1
+;9,08;15960;Work-Töitä seisten;1
+;10,85;16020;Work-Töitä seisten;1
+;11,54;16080;Work-Töitä seisten;1
+;13,21;16140;Work-Töitä seisten;1
+16,61;11,16;16200;Work-Töitä seisten;1
+;14,70;16260;Work-Töitä seisten;1
+;19,68;16320;Work-Töitä seisten;1
+;14,13;16380;Work-Töitä seisten;1
+;21,21;16440;Work-Töitä seisten;1
+12,31;14,45;16500;Work-Töitä seisten;1
+;10,15;16560;Work-Töitä seisten;1
+;14,46;16620;Work-Töitä seisten;1
+;11,12;16680;Work-Töitä seisten;1
+;11,19;16740;Work-Töitä seisten;1
+12,30;13,18;16800;Work-Töitä seisten;1
+;10,55;16860;Work-Töitä seisten;1
+;12,96;16920;Work-Töitä seisten;1
+;12,15;16980;Work-Töitä seisten;1
+;12,49;17040;Work-Töitä seisten;1
+11,04;12,72;17100;Work-Töitä seisten;1
+;8,84;17160;Work-Töitä seisten;1
+;10,14;17220;Work-Töitä seisten;1
+;13,09;17280;Work-Töitä seisten;1
+;9,76;17340;Work-Töitä seisten;1
+14,19;8,56;17400;Work-Töitä seisten;1
+;10,78;17460;Work-Töitä seisten;1
+;11,00;17520;Work-Töitä seisten;1
+;16,46;17580;Work-Töitä seisten;1
+;21,06;17640;Work-Eating;1
+16,52;19,05;17700;Work-Eating;1
+;12,08;17760;Work-Eating;1
+;8,44;17820;Work-Eating;1
+;0,00;17880;Work-Eating;1
+;19,39;17940;Work-Eating;1
+16,27;13,89;18000;Work-Eating;1
+;0,00;18060;Work-Eating;1
+;16,55;18120;Work-Eating;1
+;22,12;18180;Work-Eating;1
+;12,06;18240;Work-Eating;1
+11,28;10,63;18300;Work-Eating;1
+;8,77;18360;Work-Eating;1
+;11,24;18420;Work-Eating;1
+;11,81;18480;Work-Eating;1
+;12,35;18540;Work-Eating;1
+10,89;17,47;18600;Work-Eating;1
+;8,41;18660;Work-Eating;1
+;7,09;18720;Work-Eating;1
+;11,15;18780;Work-Eating;1
+;8,03;18840;Work-Eating;1
+11,14;12,75;18900;Work-Eating;1
+;8,75;18960;Work-Eating;1
+;9,71;19020;Work-Eating;1
+;13,36;19080;Work-Eating;1
+;10,58;19140;Work-Töitä seisten;1
+14,06;11,79;19200;Work-Töitä seisten;1
+;13,91;19260;Work-Töitä seisten;1
+;14,01;19320;Work-Töitä seisten;1
+;16,66;19380;Work-Töitä seisten;1
+;13,70;19440;Work-Töitä seisten;1
+10,08;10,99;19500;Work-Töitä seisten;1
+;11,22;19560;Work-Töitä seisten;1
+;11,96;19620;Work-Töitä seisten;1
+;8,19;19680;Work-Töitä seisten;1
+;7,68;19740;Work-Töitä seisten;1
+8,20;7,07;19800;Work-Töitä seisten;1
+;8,54;19860;Work-Töitä seisten;1
+;8,32;19920;Work-Töitä seisten;1
+;8,23;19980;Work-Töitä seisten;1
+;8,63;20040;Work-Töitä seisten;1
+11,47;8,27;20100;Work-Töitä seisten;1
+;10,12;20160;Work-Töitä seisten;1
+;13,44;20220;Work-Töitä seisten;1
+;13,05;20280;Work-Töitä seisten;1
+;12,29;20340;Work-Töitä seisten;1
+11,25;9,04;20400;Work-Töitä seisten;1
+;9,31;20460;Work-Töitä seisten;1
+;14,58;20520;Work-Töitä seisten;1
+;11,43;20580;Work-Töitä seisten;1
+;11,40;20640;Work-Töitä seisten;1
+13,93;14,24;20700;Work-Töitä seisten;1
+;10,18;20760;Work-Töitä seisten;1
+;14,24;20820;Work-Töitä seisten;1
+;13,50;20880;Work-Töitä seisten;1
+;17,11;20940;Work-Töitä seisten;1
+14,56;16,37;21000;Work-Töitä seisten;1
+;13,05;21060;Work-Töitä seisten;1
+;13,51;21120;Work-Töitä seisten;1
+;15,22;21180;Work-Töitä seisten;1
+;14,45;21240;Work-Töitä seisten;1
+12,89;12,07;21300;Work-Töitä seisten;1
+;14,77;21360;Work-Töitä seisten;1
+;11,13;21420;Work-Töitä seisten;1
+;14,16;21480;Work-Töitä seisten;1
+;12,36;21540;Work-Töitä seisten;1
+14,34;16,95;21600;Work-Töitä seisten;1
+;15,29;21660;Work-Töitä seisten;1
+;10,66;21720;Work-Töitä seisten;1
+;11,77;21780;Work-Töitä seisten;1
+;16,30;21840;Work-Töitä seisten;1
+12,64;13,26;21900;Work-Töitä seisten;1
+;11,71;21960;Work-Töitä seisten;1
+;14,27;22020;Work-Töitä seisten;1
+;13,46;22080;Work-Töitä seisten;1
+;10,30;22140;Work-Töitä seisten;1
+11,34;12,26;22200;Work-Töitä seisten;1
+;11,20;22260;Work-Töitä seisten;1
+;9,85;22320;Work-Töitä seisten;1
+;9,62;22380;Work-Töitä seisten;1
+;13,22;22440;Work-Töitä seisten;1
+10,97;11,70;22500;Work-Töitä seisten;1
+;11,48;22560;Work-Töitä seisten;1
+;10,06;22620;Work-Töitä seisten;1
+;9,58;22680;Work-Töitä seisten;1
+;11,61;22740;Work-Töitä seisten;1
+10,79;8,90;22800;Work-Töitä seisten;1
+;9,51;22860;Work-Töitä seisten;1
+;11,36;22920;Work-Töitä seisten;1
+;10,89;22980;Work-Töitä seisten;1
+;12,65;23040;Work-Töitä seisten;1
+14,06;16,15;23100;Work-Töitä seisten;1
+;17,75;23160;Work-Töitä seisten;1
+;12,15;23220;Work-Töitä seisten;1
+;10,65;23280;Work-Töitä seisten;1
+;12,90;23340;Work-Töitä seisten;1
+11,83;9,42;23400;Work-Töitä seisten;1
+;13,25;23460;Work-Töitä seisten;1
+;10,82;23520;Work-Töitä seisten;1
+;13,27;23580;Work-Töitä seisten;1
+;12,38;23640;Work-Töitä seisten;1
+12,60;11,04;23700;Work-Töitä seisten;1
+;16,66;23760;Work-Töitä seisten;1
+;10,52;23820;Work-Töitä seisten;1
+;11,80;23880;Work-Töitä seisten;1
+;12,48;23940;Work-Töitä seisten;1
+12,17;13,28;24000;Work-Töitä seisten;1
+;13,59;24060;Work-Töitä seisten;1
+;10,72;24120;Work-Töitä seisten;1
+;12,51;24180;Work-Töitä seisten;1
+;10,59;24240;Work-Töitä seisten;1
+11,18;12,10;24300;Work-Töitä seisten;1
+;10,54;24360;Work-Töitä seisten;1
+;11,65;24420;Work-Töitä seisten;1
+;11,61;24480;Work-Töitä seisten;1
+;10,05;24540;Work-Töitä seisten;1
+11,71;15,58;24600;Work-Töitä seisten;1
+;12,00;24660;Work-Töitä seisten;1
+;9,18;24720;Work-Töitä seisten;1
+;9,91;24780;Work-Töitä seisten;1
+;11,04;24840;Work-Töitä seisten;1
+10,97;10,43;24900;Work-Töitä seisten;1
+;12,71;24960;Work-Töitä seisten;1
+;8,74;25020;Work-Töitä seisten;1
+;9,82;25080;Work-Töitä seisten;1
+;12,57;25140;Work-Töitä seisten;1
+12,09;10,69;25200;Work-Töitä seisten;1
+;14,64;25260;Work-Töitä seisten;1
+;7,64;25320;Work-Töitä seisten;1
+;14,09;25380;Work-Töitä seisten;1
+;12,17;25440;Work-Töitä seisten;1
+16,14;11,37;25500;Work-Töitä seisten;1
+;14,47;25560;Work-Töitä seisten;1
+;19,29;25620;Work-Töitä seisten;1
+;16,60;25680;Work-Töitä seisten;1
+;18,63;25740;Work-Töitä seisten;1
+14,97;0,00;25800;Work-Töitä seisten;1
+;14,86;25860;Work-Töitä seisten;1
+;10,44;25920;Work-Töitä seisten;1
+;12,34;25980;Work-Töitä seisten;1
+;14,00;26040;Work-Töitä seisten;1
+12,62;14,65;26100;Work-Töitä seisten;1
+;13,29;26160;Work-Töitä seisten;1
+;11,09;26220;Work-Töitä seisten;1
+;12,29;26280;Work-Töitä seisten;1
+;11,22;26340;Work-Töitä seisten;1
+17,51;15,44;26400;Work-Töitä seisten;1
+;12,19;26460;Work-Töitä seisten;1
+;11,53;26520;Work-Töitä seisten;1
+;0,00;26580;Work-Töitä seisten;1
+;17,62;26640;Work-Töitä seisten;1
+22,00;19,88;26700;Work-Töitä seisten;1
+;21,89;26760;Work-Töitä seisten;1
+;26,51;26820;Work-Töitä seisten;1
+;18,04;26880;Work-Töitä seisten;1
+;21,80;26940;Work-Töitä seisten;1
+14,60;15,16;27000;Work-Töitä seisten;1
+;10,92;27060;Work-Töitä seisten;1
+;14,60;27120;Work-Töitä seisten;1
+;13,91;27180;Work-Töitä seisten;1
+;17,65;27240;Work-Töitä seisten;1
+16,83;16,83;27300;Work-Töitä seisten;1
+;20,38;27360;Work-Töitä seisten;1
+;18,40;27420;Work-Töitä seisten;1
+;14,09;27480;Work-Töitä seisten;1
+;13,91;27540;Work-Töitä seisten;1
+16,53;16,55;27600;Work-Töitä seisten;1
+;16,54;27660;Work-Töitä seisten;1
+;17,07;27720;Work-Töitä seisten;1
+;13,63;27780;Work-Töitä seisten;1
+;18,91;27840;Work-Töitä seisten;1
+16,98;11,48;27900;Work-Töitä seisten;1
+;12,64;27960;Work-Töitä seisten;1
+;16,94;28020;Work-Töitä seisten;1
+;12,03;28080;Work-Töitä seisten;1
+;26,92;28140;Work-Töitä seisten;1
+19,04;13,65;28200;Work-Töitä seisten;1
+;24,52;28260;Work-Töitä seisten;1
+;21,08;28320;Work-Töitä seisten;1
+;17,52;28380;Work-Töitä seisten;1
+;16,72;28440;Work-Töitä seisten;1
+16,93;14,34;28500;Work-Töitä seisten;1
+;16,65;28560;Work-Töitä seisten;1
+;19,75;28620;Work-Töitä seisten;1
+;15,62;28680;Work-Töitä seisten;1
+;17,84;28740;Work-Töitä seisten;1
+17,06;17,24;28800;Work-Töitä seisten;1
+;13,42;28860;Work-Töitä seisten;1
+;19,61;28920;Work-Töitä seisten;1
+;13,12;28980;Work-Töitä seisten;1
+;20,80;29040;Work-Töitä seisten;1
+19,14;22,42;29100;Work-Töitä seisten;1
+;16,94;29160;Work-Töitä seisten;1
+;18,34;29220;Work-Töitä seisten;1
+;22,92;29280;Work-Töitä seisten;1
+;14,45;29340;Work-Töitä seisten;1
+16,73;14,31;29400;Work-Töitä seisten;1
+;17,76;29460;Work-Töitä seisten;1
+;19,59;29520;Work-Töitä seisten;1
+;16,01;29580;Work-Töitä seisten;1
+;16,02;29640;Work-Töitä seisten;1
+15,04;16,54;29700;Work-Töitä seisten;1
+;12,73;29760;Work-Töitä seisten;1
+;18,59;29820;Work-Töitä seisten;1
+;14,28;29880;Work-Töitä seisten;1
+;12,36;29940;Work-Töitä seisten;1
+17,79;13,23;30000;Work-Töitä seisten;1
+;14,04;30060;Work-Töitä seisten;1
+;15,15;30120;Work-Töitä seisten;1
+;18,75;30180;Work-Töitä seisten;1
+;25,54;30240;Work-Töitä seisten;1
+21,00;0,00;30300;Work-Töitä seisten;1
+;16,53;30360;Work-Töitä seisten;1
+;23,89;30420;Work-Töitä seisten;1
+;19,80;30480;Work-Töitä seisten;1
+;20,69;30540;Work-Töitä seisten;1
+17,90;23,58;30600;Work-Töitä seisten;1
+;13,44;30660;Work-Töitä seisten;1
+;15,89;30720;Work-Töitä seisten;1
+;18,94;30780;Work-Töitä seisten;1
+;16,47;30840;Work-Töitä seisten;1
+15,78;14,54;30900;Work-Töitä seisten;1
+;19,94;30960;Work-Töitä seisten;1
+;12,99;31020;Work-Töitä seisten;1
+;12,99;31080;Work-Töitä seisten;1
+;17,61;31140;Work-Töitä seisten;1
+12,32;8,74;31200;Work-Töitä seisten;1
+;12,40;31260;Work-Töitä seisten;1
+;15,29;31320;Work-Töitä seisten;1
+;13,96;31380;Work-Töitä seisten;1
+;10,31;31440;Work-Töitä seisten;1
+12,83;9,25;31500;Work-Töitä seisten;1
+;8,32;31560;Work-Töitä seisten;1
+;16,66;31620;Work-Töitä seisten;1
+;13,75;31680;Work-Töitä seisten;1
+;14,17;31740;Work-Töitä seisten;1
+14,34;17,22;31800;Work-Töitä seisten;1
+;13,73;31860;Work-Töitä seisten;1
+;14,70;31920;Work-Töitä seisten;1
+;13,13;31980;Work-Töitä seisten;1
+;12,41;32040;Work-Töitä seisten;1
+16,90;15,02;32100;Work-Töitä seisten;1
+;11,95;32160;Work-Töitä seisten;1
+;18,89;32220;Work-Töitä seisten;1
+;0,00;32280;Work-Töitä seisten;1
+;17,77;32340;Work-Töitä seisten;1
+15,27;16,98;32400;Work-Töitä seisten;1
+;13,55;32460;Work-Töitä seisten;1
+;20,13;32520;Work-Töitä seisten;1
+;12,32;32580;Work-Töitä seisten;1
+;12,19;32640;Work-Töitä seisten;1
+13,81;11,83;32700;Work-Töitä seisten;1
+;14,40;32760;Work-Töitä seisten;1
+;13,48;32820;Work-Töitä seisten;1
+;15,44;32880;Work-Töitä seisten;1
+;13,83;32940;Work-Töitä seisten;1
+13,59;13,65;33000;Work-Töitä seisten;1
+;11,22;33060;Work-Töitä seisten;1
+;10,94;33120;Work-Töitä seisten;1
+;15,27;33180;Work-Töitä seisten;1
+;16,31;33240;Work-Töitä seisten;1
+12,82;12,15;33300;Work-Töitä seisten;1
+;12,21;33360;Work-Töitä seisten;1
+;13,88;33420;Work-Töitä seisten;1
+;15,00;33480;Work-Töitä seisten;1
+;10,83;33540;Work-Töitä seisten;1
+13,19;9,30;33600;Work-Töitä seisten;1
+;12,01;33660;Work-Töitä seisten;1
+;12,23;33720;Work-Töitä seisten;1
+;16,25;33780;Work-Töitä seisten;1
+;15,00;33840;Work-Töitä seisten;1
+13,92;12,45;33900;Work-Töitä seisten;1
+;11,91;33960;Work-Töitä seisten;1
+;11,69;34020;Work-Töitä seisten;1
+;16,61;34080;Work-Töitä seisten;1
+;16,46;34140;Work-Töitä seisten;1
+12,65;11,89;34200;Work-Töitä seisten;1
+;13,08;34260;Work-Töitä seisten;1
+;13,78;34320;Work-Töitä seisten;1
+;11,31;34380;Work-Töitä seisten;1
+;12,94;34440;Work-Töitä seisten;1
+13,87;14,76;34500;Work-Töitä seisten;1
+;15,05;34560;Work-Töitä seisten;1
+;15,30;34620;Work-Töitä seisten;1
+;11,36;34680;Work-Töitä seisten;1
+;12,17;34740;Work-Töitä seisten;1
+20,48;29,83;34800;Work-Töitä seisten;1
+;21,59;34860;Work-Töitä seisten;1
+;15,87;34920;Work-Töitä seisten;1
+;14,81;34980;Work-Töitä seisten;1
+;17,48;35040;Work-Töitä seisten;1
+17,12;0,00;35100;Work-Töitä seisten;1
+;14,04;35160;Work-Töitä seisten;1
+;19,62;35220;Work-Töitä seisten;1
+;18,75;35280;Work-Töitä seisten;1
+;18,83;35340;Work-Töitä seisten;1
+18,85;21,51;35400;Work-Töitä seisten;1
+;16,85;35460;Work-Töitä seisten;1
+;15,74;35520;Work-Töitä seisten;1
+;19,22;35580;Work-Töitä seisten;1
+;20,46;35640;Work;1
+19,30;17,90;35700;Work;1
+;17,75;35760;Work;1
+;17,67;35820;Work;1
+;20,37;35880;Work;1
+;22,24;35940;Work;1
+21,02;24,38;36000;Work;1
+;19,62;36060;Work;1
+;18,83;36120;Work;1
+;22,10;36180;Work;1
+;20,21;36240;Work;1
+17,65;19,14;36300;Work;1
+;17,29;36360;Work;1
+;17,47;36420;Work;1
+;20,03;36480;Work;1
+;13,50;36540;Work;1
+21,22;23,67;36600;Work;1
+;18,20;36660;Work;1
+;24,14;36720;Work;1
+;22,08;36780;Work;1
+;17,06;36840;Work;1
+19,32;20,24;36900;Work;1
+;19,11;36960;Work;1
+;17,17;37020;Work;1
+;18,01;37080;Work;1
+;21,15;37140;Work;1
+17,39;16,14;37200;Work;1
+;17,13;37260;Work;1
+;21,60;37320;Work;1
+;18,42;37380;Work;1
+;13,33;37440;Work;1
+15,48;13,89;37500;Work;1
+;15,74;37560;Work;1
+;16,02;37620;Work;1
+;17,05;37680;Work;1
+;14,91;37740;Work;1
+17,45;14,19;37800;Work;1
+;18,01;37860;Work;1
+;15,53;37920;Work;1
+;22,00;37980;Work;1
+;16,55;38040;Work;1
+15,30;17,54;38100;Work;1
+;16,46;38160;Work;1
+;10,15;38220;Work;1
+;14,51;38280;Work;1
+;16,76;38340;Work;1
+17,79;16,70;38400;Work;1
+;15,88;38460;Work;1
+;17,91;38520;Work;1
+;20,87;38580;Work;1
+;17,41;38640;Work;1
+18,62;28,08;38700;Work;1
+;14,57;38760;Work;1
+;17,09;38820;Work;1
+;15,34;38880;Work;1
+;15,50;38940;Work;1
+13,85;16,33;39000;Work;1
+;12,79;39060;Work;1
+;13,92;39120;Work;1
+;12,43;39180;Work;1
+;13,87;39240;Work;1
+13,27;0,00;39300;Work;1
+;14,64;39360;Work;1
+;13,01;39420;Work;1
+;10,29;39480;Work;1
+;11,12;39540;Work;1
+10,22;12,95;39600;Work;1
+;14,25;39660;Work;1
+;10,08;39720;Work;1
+;6,91;39780;Work;1
+;6,27;39840;Work-Light exercise;1
+5,42;7,00;39900;Work-Light exercise;1
+;6,43;39960;Work-Light exercise;1
+;3,98;40020;Work-Light exercise;1
+;4,29;40080;Work-Light exercise;1
+;4,79;40140;Work-Light exercise;1
+4,18;4,58;40200;Work-Light exercise;1
+;4,30;40260;Work-Light exercise;1
+;4,96;40320;Work-Light exercise;1
+;3,14;40380;Work-Light exercise;1
+;3,77;40440;Work-Light exercise;1
+4,77;4,66;40500;Work-Light exercise;1
+;4,60;40560;Work-Light exercise;1
+;4,11;40620;Work-Light exercise;1
+;3,85;40680;Work-Light exercise;1
+;6,42;40740;Work-Light exercise;1
+5,45;4,81;40800;Work-Light exercise;1
+;4,62;40860;Work-Light exercise;1
+;4,86;40920;Work-Light exercise;1
+;7,65;40980;Work-Light exercise;1
+;5,05;41040;Work-Hacklab TRE;1
+7,57;5,56;41100;Work-Hacklab TRE;1
+;5,80;41160;Work-Hacklab TRE;1
+;5,54;41220;Work-Hacklab TRE;1
+;10,57;41280;Work-Hacklab TRE;1
+;9,41;41340;Work-Hacklab TRE;1
+8,68;7,51;41400;Work-Hacklab TRE;1
+;9,07;41460;Work-Hacklab TRE;1
+;12,09;41520;Work-Hacklab TRE;1
+;7,75;41580;Work-Hacklab TRE;1
+;5,72;41640;Work-Hacklab TRE;1
+8,11;7,27;41700;Work-Hacklab TRE;1
+;6,72;41760;Work-Hacklab TRE;1
+;6,62;41820;Work-Hacklab TRE;1
+;6,43;41880;Work-Hacklab TRE;1
+;12,23;41940;Work-Hacklab TRE;1
+8,76;9,96;42000;Work-Hacklab TRE;1
+;8,09;42060;Work-Hacklab TRE;1
+;7,65;42120;Work-Hacklab TRE;1
+;8,95;42180;Work-Hacklab TRE;1
+;9,05;42240;Work-Hacklab TRE;1
+11,37;9,48;42300;Work-Hacklab TRE;1
+;13,16;42360;Work-Hacklab TRE;1
+;13,05;42420;Work-Hacklab TRE;1
+;12,47;42480;Work-Hacklab TRE;1
+;8,27;42540;Work-Hacklab TRE;1
+15,77;19,17;42600;Work-Hacklab TRE;1
+;14,78;42660;Work-Hacklab TRE;1
+;13,42;42720;Work-Hacklab TRE;1
+;16,80;42780;Work-Hacklab TRE;1
+;14,19;42840;Work-Hacklab TRE;1
+15,64;13,21;42900;Work-Hacklab TRE;1
+;17,00;42960;Work-Hacklab TRE;1
+;16,36;43020;Work-Hacklab TRE;1
+;15,46;43080;Work-Hacklab TRE;1
+;16,11;43140;Work-Hacklab TRE;1
+13,99;15,14;43200;Work-Hacklab TRE;1
+;14,21;43260;Work-Hacklab TRE;1
+;13,45;43320;Work-Hacklab TRE;1
+;13,85;43380;Work-Hacklab TRE;1
+;12,89;43440;Work-Hacklab TRE;1
+15,18;12,58;43500;Work-Hacklab TRE;1
+;13,31;43560;Work-Hacklab TRE;1
+;11,93;43620;Work-Hacklab TRE;1
+;14,07;43680;Work-Hacklab TRE;1
+;22,01;43740;Hacklab TRE;1
+17,38;18,10;43800;Hacklab TRE;1
+;14,52;43860;Hacklab TRE;1
+;17,40;43920;Hacklab TRE;1
+;15,27;43980;Hacklab TRE;1
+;20,62;44040;Hacklab TRE;1
+18,83;23,70;44100;Hacklab TRE;1
+;13,43;44160;Hacklab TRE;1
+;24,21;44220;Hacklab TRE;1
+;15,05;44280;Hacklab TRE;1
+;15,15;44340;Hacklab TRE;1
+13,60;17,23;44400;Hacklab TRE;1
+;15,13;44460;Hacklab TRE;1
+;11,48;44520;Hacklab TRE;1
+;12,29;44580;Hacklab TRE;1
+;10,78;44640;Light exercise;1
+6,86;8,29;44700;Light exercise;1
+;7,95;44760;Light exercise;1
+;7,30;44820;Light exercise;1
+;4,69;44880;Light exercise;1
+;6,22;44940;Light exercise;1
+6,11;4,47;45000;Light exercise;1
+;4,65;45060;Light exercise;1
+;8,10;45120;Light exercise;1
+;8,92;45180;Light exercise;1
+;3,69;45240;Light exercise;1
+4,85;4,13;45300;Light exercise;1
+;4,42;45360;Light exercise;1
+;3,32;45420;Light exercise;1
+;5,47;45480;Light exercise;1
+;6,57;45540;;1
+7,74;5,03;45600;;1
+;5,14;45660;;1
+;9,11;45720;;1
+;10,39;45780;;1
+;8,68;45840;;1
+14,15;10,21;45900;;1
+;14,82;45960;;1
+;18,24;46020;;1
+;8,12;46080;;1
+;16,96;46140;;1
+9,92;8,69;46200;;1
+;10,02;46260;;1
+;13,24;46320;;1
+;9,31;46380;;1
+;7,76;46440;;1
+9,02;8,19;46500;;1
+;7,60;46560;;1
+;6,15;46620;;1
+;10,24;46680;;1
+;11,87;46740;;1
+8,88;12,96;46800;;1
+;8,26;46860;;1
+;6,03;46920;;1
+;6,48;46980;;1
+;7,13;47040;;1
+9,93;9,16;47100;;1
+;10,71;47160;;1
+;9,81;47220;;1
+;9,53;47280;;1
+;10,43;47340;Eating;1
+8,22;9,33;47400;Eating;1
+;6,97;47460;Eating;1
+;8,51;47520;Eating;1
+;9,49;47580;Eating;1
+;6,71;47640;Eating;1
+12,87;10,69;47700;Eating;1
+;11,39;47760;Eating;1
+;11,06;47820;Eating;1
+;13,11;47880;Eating;1
+;17,00;47940;Eating;1
+12,15;10,82;48000;Eating;1
+;11,36;48060;Eating;1
+;15,68;48120;Eating;1
+;10,02;48180;Eating;1
+;12,61;48240;Eating;1
+7,96;0,00;48300;Eating;1
+;8,33;48360;Eating;1
+;6,81;48420;Eating;1
+;6,96;48480;Eating;1
+;8,09;48540;Eating;1
+11,50;12,61;48600;Eating;1
+;13,66;48660;Eating;1
+;11,63;48720;Eating;1
+;11,48;48780;Eating;1
+;6,87;48840;Eating;1
+13,62;14,20;48900;Eating;1
+;15,03;48960;Eating;1
+;11,48;49020;Eating;1
+;12,53;49080;Eating;1
+;14,55;49140;;1
+9,23;13,04;49200;;1
+;7,17;49260;;1
+;6,84;49320;;1
+;7,39;49380;;1
+;10,38;49440;;1
+13,01;13,77;49500;;1
+;12,22;49560;;1
+;13,70;49620;;1
+;12,68;49680;;1
+;12,61;49740;;1
+13,43;12,11;49800;;1
+;12,08;49860;;1
+;13,38;49920;;1
+;14,41;49980;;1
+;15,12;50040;;1
+17,38;14,81;50100;;1
+;14,97;50160;;1
+;19,22;50220;;1
+;21,79;50280;;1
+;14,96;50340;;1
+13,38;15,91;50400;;1
+;16,02;50460;;1
+;12,93;50520;;1
+;10,82;50580;;1
+;10,51;50640;;1
+16,33;12,86;50700;;1
+;12,81;50760;;1
+;16,62;50820;;1
+;20,07;50880;;1
+;18,65;50940;;1
+16,90;16,10;51000;;1
+;17,58;51060;;1
+;17,95;51120;;1
+;17,05;51180;;1
+;15,71;51240;;1
+16,62;20,57;51300;;1
+;11,50;51360;;1
+;13,96;51420;;1
+;20,00;51480;;1
+;15,07;51540;;1
+18,35;13,57;51600;;1
+;17,96;51660;;1
+;22,89;51720;;1
+;20,04;51780;;1
+;16,37;51840;;1
+18,88;21,59;51900;;1
+;20,10;51960;;1
+;19,63;52020;;1
+;14,92;52080;;1
+;17,67;52140;;1
+20,02;20,44;52200;;1
+;19,32;52260;;1
+;20,85;52320;;1
+;17,96;52380;;1
+;21,61;52440;;1
+18,93;20,58;52500;;1
+;17,84;52560;;1
+;19,74;52620;;1
+;19,02;52680;;1
+;17,41;52740;;1
+16,63;18,77;52800;;1
+;16,78;52860;;1
+;11,80;52920;;1
+;20,42;52980;;1
+;14,97;53040;;1
+19,04;22,09;53100;;1
+;15,18;53160;;1
+;17,86;53220;;1
+;18,12;53280;;1
+;21,64;53340;;1
+17,30;17,23;53400;;1
+;20,83;53460;;1
+;15,59;53520;;1
+;16,78;53580;;1
+;16,00;53640;;1
+18,64;16,77;53700;;1
+;18,60;53760;;1
+;18,32;53820;;1
+;18,85;53880;;1
+;20,63;53940;;1
+20,92;19,20;54000;;1
+;21,90;54060;;1
+;19,97;54120;;1
+;21,03;54180;;1
+;22,67;54240;;1
+18,75;20,71;54300;;1
+;15,06;54360;;1
+;15,65;54420;;1
+;18,32;54480;;1
+;23,35;54540;;1
+16,18;19,36;54600;;1
+;13,35;54660;;1
+;14,11;54720;;1
+;16,93;54780;;1
+;16,47;54840;;1
+21,21;19,38;54900;;1
+;19,75;54960;;1
+;24,10;55020;;1
+;19,97;55080;;1
+;22,40;55140;;1
+18,57;20,79;55200;;1
+;16,64;55260;;1
+;16,87;55320;;1
+;20,68;55380;;1
+;17,73;55440;;1
+16,14;16,95;55500;;1
+;24,17;55560;;1
+;8,64;55620;;1
+;17,12;55680;;1
+;9,98;55740;;1
+17,54;14,30;55800;;1
+;10,14;55860;;1
+;12,14;55920;;1
+;27,03;55980;;1
+;21,68;56040;;1
+23,08;23,86;56100;;1
+;24,25;56160;;1
+;22,58;56220;;1
+;24,16;56280;;1
+;20,63;56340;;1
+24,04;19,16;56400;;1
+;24,18;56460;;1
+;24,12;56520;;1
+;24,78;56580;;1
+;26,98;56640;;1
+20,96;22,77;56700;;1
+;24,11;56760;;1
+;25,64;56820;;1
+;14,06;56880;;1
+;17,08;56940;;1
+9,55;8,34;57000;;1
+;14,07;57060;;1
+;10,36;57120;;1
+;7,26;57180;;1
+;5,31;57240;;1
+12,61;8,40;57300;;1
+;8,10;57360;;1
+;15,66;57420;;1
+;12,35;57480;;1
+;16,05;57540;;1
+16,20;8,38;57600;;1
+;11,40;57660;;1
+;13,51;57720;;1
+;17,01;57780;;1
+;25,88;57840;;1
+29,72;24,01;57900;;1
+;33,67;57960;;1
+;27,29;58020;;1
+;32,77;58080;;1
+;29,21;58140;Sleep;1
+24,11;27,68;58200;Sleep;1
+;23,20;58260;Sleep;1
+;24,82;58320;Sleep;1
+;22,22;58380;Sleep;1
+;22,45;58440;Sleep;1
+35,55;26,16;58500;Sleep;1
+;29,14;58560;Sleep;1
+;43,16;58620;Sleep;1
+;37,31;58680;Sleep;1
+;39,54;58740;Sleep;1
+40,24;42,32;58800;Sleep;1
+;50,02;58860;Sleep;1
+;34,08;58920;Sleep;1
+;36,83;58980;Sleep;1
+;37,34;59040;Sleep;1
+57,73;47,09;59100;Sleep;1
+;50,35;59160;Sleep;1
+;71,52;59220;Sleep;1
+;61,85;59280;Sleep;1
+;56,34;59340;Sleep;1
+68,77;65,03;59400;Sleep;1
+;67,77;59460;Sleep;1
+;70,23;59520;Sleep;1
+;80,45;59580;Sleep;1
+;60,00;59640;Sleep;1
+66,73;72,78;59700;Sleep;1
+;67,49;59760;Sleep;1
+;59,05;59820;Sleep;1
+;73,08;59880;Sleep;1
+;61,10;59940;Sleep;1
+76,88;74,58;60000;Sleep;1
+;74,31;60060;Sleep;1
+;78,43;60120;Sleep;1
+;78,43;60180;Sleep;1
+;79,78;60240;Sleep;1
+80,55;77,61;60300;Sleep;1
+;62,17;60360;Sleep;1
+;96,12;60420;Sleep;1
+;82,02;60480;Sleep;1
+;81,02;60540;Sleep;1
+85,55;74,07;60600;Sleep;1
+;76,54;60660;Sleep;1
+;80,22;60720;Sleep;1
+;104,58;60780;Sleep;1
+;90,64;60840;Sleep;1
+60,45;96,81;60900;Sleep;1
+;49,26;60960;Sleep;1
+;55,96;61020;Sleep;1
+;36,27;61080;Sleep;1
+;55,99;61140;Sleep;1
+68,50;75,05;61200;Sleep;1
+;97,72;61260;Sleep;1
+;63,51;61320;Sleep;1
+;58,43;61380;Sleep;1
+;32,77;61440;Sleep;1
+32,15;25,11;61500;Sleep;1
+;34,66;61560;Sleep;1
+;39,14;61620;Sleep;1
+;31,10;61680;Sleep;1
+;28,28;61740;Sleep;1
+27,79;27,35;61800;Sleep;1
+;21,52;61860;Sleep;1
+;21,16;61920;Sleep;1
+;29,23;61980;Sleep;1
+;36,73;62040;Sleep;1
+32,06;32,24;62100;Sleep;1
+;37,55;62160;Sleep;1
+;29,07;62220;Sleep;1
+;31,04;62280;Sleep;1
+;29,91;62340;Sleep;1
+43,54;39,87;62400;Sleep;1
+;23,00;62460;Sleep;1
+;46,80;62520;Sleep;1
+;39,42;62580;Sleep;1
+;62,03;62640;Sleep;1
+69,56;52,13;62700;Sleep;1
+;72,23;62760;Sleep;1
+;59,34;62820;Sleep;1
+;79,47;62880;Sleep;1
+;81,33;62940;Sleep;1
+68,20;60,45;63000;Sleep;1
+;83,53;63060;Sleep;1
+;60,47;63120;Sleep;1
+;51,56;63180;Sleep;1
+;78,57;63240;Sleep;1
+74,26;40,14;63300;Sleep;1
+;72,77;63360;Sleep;1
+;84,02;63420;Sleep;1
+;77,95;63480;Sleep;1
+;84,81;63540;Sleep;1
+79,14;62,68;63600;Sleep;1
+;67,16;63660;Sleep;1
+;74,13;63720;Sleep;1
+;94,18;63780;Sleep;1
+;94,36;63840;Sleep;1
+62,01;67,56;63900;Sleep;1
+;72,85;63960;Sleep;1
+;60,09;64020;Sleep;1
+;52,99;64080;Sleep;1
+;56,10;64140;Sleep;1
+78,75;90,27;64200;Sleep;1
+;84,09;64260;Sleep;1
+;71,24;64320;Sleep;1
+;59,19;64380;Sleep;1
+;84,25;64440;Sleep;1
+68,67;79,56;64500;Sleep;1
+;84,31;64560;Sleep;1
+;72,18;64620;Sleep;1
+;56,56;64680;Sleep;1
+;38,52;64740;Sleep;1
+79,21;54,84;64800;Sleep;1
+;94,10;64860;Sleep;1
+;84,05;64920;Sleep;1
+;72,21;64980;Sleep;1
+;84,38;65040;Sleep;1
+76,52;81,83;65100;Sleep;1
+;83,62;65160;Sleep;1
+;84,15;65220;Sleep;1
+;65,03;65280;Sleep;1
+;68,82;65340;Sleep;1
+69,98;69,77;65400;Sleep;1
+;78,38;65460;Sleep;1
+;63,77;65520;Sleep;1
+;84,19;65580;Sleep;1
+;52,18;65640;Sleep;1
+84,54;72,99;65700;Sleep;1
+;77,36;65760;Sleep;1
+;96,14;65820;Sleep;1
+;94,32;65880;Sleep;1
+;78,46;65940;Sleep;1
+40,17;41,75;66000;Sleep;1
+;45,60;66060;Sleep;1
+;53,22;66120;Sleep;1
+;35,19;66180;Sleep;1
+;17,68;66240;Sleep;1
+22,65;14,38;66300;Sleep;1
+;15,46;66360;Sleep;1
+;13,31;66420;Sleep;1
+;27,24;66480;Sleep;1
+;36,69;66540;Sleep;1
+37,61;26,34;66600;Sleep;1
+;22,52;66660;Sleep;1
+;50,04;66720;Sleep;1
+;36,71;66780;Sleep;1
+;46,21;66840;Sleep;1
+55,87;49,38;66900;Sleep;1
+;70,49;66960;Sleep;1
+;57,15;67020;Sleep;1
+;32,50;67080;Sleep;1
+;60,28;67140;Sleep;1
+73,49;84,70;67200;Sleep;1
+;91,21;67260;Sleep;1
+;37,70;67320;Sleep;1
+;63,60;67380;Sleep;1
+;79,74;67440;Sleep;1
+73,88;57,71;67500;Sleep;1
+;44,49;67560;Sleep;1
+;86,58;67620;Sleep;1
+;98,37;67680;Sleep;1
+;71,86;67740;Sleep;1
+77,36;61,42;67800;Sleep;1
+;61,77;67860;Sleep;1
+;96,81;67920;Sleep;1
+;78,30;67980;Sleep;1
+;82,39;68040;Sleep;1
+74,15;67,90;68100;Sleep;1
+;86,14;68160;Sleep;1
+;79,78;68220;Sleep;1
+;80,09;68280;Sleep;1
+;56,43;68340;Sleep;1
+62,68;54,90;68400;Sleep;1
+;60,06;68460;Sleep;1
+;58,56;68520;Sleep;1
+;66,86;68580;Sleep;1
+;71,72;68640;Sleep;1
+67,44;73,13;68700;Sleep;1
+;67,34;68760;Sleep;1
+;59,38;68820;Sleep;1
+;67,97;68880;Sleep;1
+;61,70;68940;Sleep;1
+69,05;63,87;69000;Sleep;1
+;71,91;69060;Sleep;1
+;65,21;69120;Sleep;1
+;59,40;69180;Sleep;1
+;81,50;69240;Sleep;1
+77,42;67,89;69300;Sleep;1
+;70,30;69360;Sleep;1
+;72,83;69420;Sleep;1
+;81,81;69480;Sleep;1
+;89,61;69540;Sleep;1
+93,60;107,78;69600;Sleep;1
+;88,85;69660;Sleep;1
+;107,24;69720;Sleep;1
+;88,85;69780;Sleep;1
+;72,82;69840;Sleep;1
+80,20;80,57;69900;Sleep;1
+;68,74;69960;Sleep;1
+;78,29;70020;Sleep;1
+;82,47;70080;Sleep;1
+;90,81;70140;Sleep;1
+86,88;94,71;70200;Sleep;1
+;95,12;70260;Sleep;1
+;79,72;70320;Sleep;1
+;86,66;70380;Sleep;1
+;74,43;70440;Sleep;1
+90,40;102,60;70500;Sleep;1
+;91,10;70560;Sleep;1
+;75,44;70620;Sleep;1
+;97,77;70680;Sleep;1
+;82,62;70740;Sleep;1
+83,84;84,27;70800;Sleep;1
+;87,52;70860;Sleep;1
+;80,98;70920;Sleep;1
+;88,25;70980;Sleep;1
+;78,38;71040;Sleep;1
+75,10;48,19;71100;Sleep;1
+;79,88;71160;Sleep;1
+;64,89;71220;Sleep;1
+;87,79;71280;Sleep;1
+;82,33;71340;Sleep;1
+84,60;97,52;71400;Sleep;1
+;59,98;71460;Sleep;1
+;85,33;71520;Sleep;1
+;71,69;71580;Sleep;1
+;104,21;71640;Sleep;1
+92,57;103,86;71700;Sleep;1
+;106,38;71760;Sleep;1
+;82,11;71820;Sleep;1
+;73,47;71880;Sleep;1
+;92,26;71940;Sleep;1
+80,13;91,96;72000;Sleep;1
+;93,52;72060;Sleep;1
+;70,06;72120;Sleep;1
+;48,32;72180;Sleep;1
+;86,29;72240;Sleep;1
+95,42;95,67;72300;Sleep;1
+;99,67;72360;Sleep;1
+;99,47;72420;Sleep;1
+;99,37;72480;Sleep;1
+;82,70;72540;Sleep;1
+80,35;61,76;72600;Sleep;1
+;64,70;72660;Sleep;1
+;61,05;72720;Sleep;1
+;102,17;72780;Sleep;1
+;103,54;72840;Sleep;1
+52,39;64,77;72900;Sleep;1
+;36,99;72960;Sleep;1
+;59,04;73020;Sleep;1
+;61,07;73080;Sleep;1
+;33,88;73140;Sleep;1
+81,90;53,66;73200;Sleep;1
+;87,00;73260;Sleep;1
+;83,26;73320;Sleep;1
+;98,08;73380;Sleep;1
+;83,97;73440;Sleep;1
+70,36;80,15;73500;Sleep;1
+;48,85;73560;Sleep;1
+;84,17;73620;Sleep;1
+;69,07;73680;Sleep;1
+;66,65;73740;Sleep;1
+78,86;65,22;73800;Sleep;1
+;57,11;73860;Sleep;1
+;110,58;73920;Sleep;1
+;93,79;73980;Sleep;1
+;55,68;74040;Sleep;1
+61,41;45,19;74100;Sleep;1
+;46,51;74160;Sleep;1
+;71,78;74220;Sleep;1
+;69,81;74280;Sleep;1
+;67,00;74340;Sleep;1
+45,80;32,88;74400;Sleep;1
+;57,13;74460;Sleep;1
+;38,44;74520;Sleep;1
+;57,67;74580;Sleep;1
+;37,24;74640;Sleep;1
+36,97;45,34;74700;Sleep;1
+;28,45;74760;Sleep;1
+;51,99;74820;Sleep;1
+;31,42;74880;Sleep;1
+;20,46;74940;Sleep;1
+45,02;42,00;75000;Sleep;1
+;38,99;75060;Sleep;1
+;40,64;75120;Sleep;1
+;42,46;75180;Sleep;1
+;59,51;75240;Sleep;1
+39,76;42,36;75300;Sleep;1
+;38,51;75360;Sleep;1
+;34,87;75420;Sleep;1
+;44,50;75480;Sleep;1
+;38,10;75540;Sleep;1
+77,13;52,40;75600;Sleep;1
+;66,39;75660;Sleep;1
+;95,94;75720;Sleep;1
+;73,12;75780;Sleep;1
+;89,34;75840;Sleep;1
+77,32;101,45;75900;Sleep;1
+;80,15;75960;Sleep;1
+;68,70;76020;Sleep;1
+;76,66;76080;Sleep;1
+;45,93;76140;Sleep;1
+79,75;74,97;76200;Sleep;1
+;71,53;76260;Sleep;1
+;93,76;76320;Sleep;1
+;84,08;76380;Sleep;1
+;75,25;76440;Sleep;1
+68,46;66,80;76500;Sleep;1
+;71,62;76560;Sleep;1
+;70,23;76620;Sleep;1
+;43,75;76680;Sleep;1
+;80,23;76740;Sleep;1
+72,07;71,73;76800;Sleep;1
+;63,30;76860;Sleep;1
+;70,61;76920;Sleep;1
+;64,53;76980;Sleep;1
+;88,87;77040;Sleep;1
+77,70;79,22;77100;Sleep;1
+;97,79;77160;Sleep;1
+;83,31;77220;Sleep;1
+;60,26;77280;Sleep;1
+;63,38;77340;Sleep;1
+66,17;76,92;77400;Sleep;1
+;91,85;77460;Sleep;1
+;60,20;77520;Sleep;1
+;36,37;77580;Sleep;1
+;51,89;77640;Sleep;1
+59,96;64,65;77700;Sleep;1
+;56,08;77760;Sleep;1
+;64,89;77820;Sleep;1
+;52,42;77880;Sleep;1
+;61,79;77940;Sleep;1
+65,22;35,28;78000;Sleep;1
+;61,52;78060;Sleep;1
+;81,70;78120;Sleep;1
+;69,25;78180;Sleep;1
+;68,65;78240;Sleep;1
+69,39;56,91;78300;Sleep;1
+;84,85;78360;Sleep;1
+;52,77;78420;Sleep;1
+;78,23;78480;Sleep;1
+;66,51;78540;Sleep;1
+53,66;43,52;78600;Sleep;1
+;54,41;78660;Sleep;1
+;47,08;78720;Sleep;1
+;63,24;78780;Sleep;1
+;57,75;78840;Sleep;1
+59,46;62,43;78900;Sleep;1
+;66,24;78960;Sleep;1
+;67,30;79020;Sleep;1
+;43,51;79080;Sleep;1
+;46,77;79140;Sleep;1
+76,62;59,28;79200;Sleep;1
+;54,89;79260;Sleep;1
+;89,47;79320;Sleep;1
+;94,01;79380;Sleep;1
+;78,64;79440;Sleep;1
+68,64;84,23;79500;Sleep;1
+;64,62;79560;Sleep;1
+;81,84;79620;Sleep;1
+;67,08;79680;Sleep;1
+;39,91;79740;Sleep;1
+33,40;43,74;79800;Sleep;1
+;23,96;79860;Sleep;1
+;19,12;79920;Sleep;1
+;47,09;79980;Sleep;1
+;24,60;80040;Sleep;1
+29,24;23,22;80100;Sleep;1
+;23,27;80160;Sleep;1
+;24,47;80220;Sleep;1
+;28,42;80280;Sleep;1
+;40,56;80340;Sleep;1
+90,69;39,14;80400;Sleep;1
+;80,60;80460;Sleep;1
+;104,46;80520;Sleep;1
+;96,90;80580;Sleep;1
+;116,36;80640;Sleep;1
+70,28;72,62;80700;Sleep;1
+;67,96;80760;Sleep;1
+;110,99;80820;Sleep;1
+;57,41;80880;Sleep;1
+;12,37;80940;Sleep;1
+22,63;6,69;81000;Sleep;1
+;11,13;81060;Sleep;1
+;21,74;81120;Sleep;1
+;33,87;81180;Sleep;1
+;30,19;81240;Sleep;1
+;85,84;81300;Sleep;1
+;68,27;81360;Sleep;1
+;80,17;81420;Sleep;1

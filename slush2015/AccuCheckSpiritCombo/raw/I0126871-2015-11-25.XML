@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="ACSPIXIP.xsl" ?>
+
+<IMPORT>
+<ACSPIX Type="2106" SN="UI00596142" Ver="3.05.01"/>
+<IP Name="Combo" SN="10126871    " Dt="2015-11-25" Tm="09:37" ActiveProf="1">
+<IPPROFILE Name="1" Active="1" IUday="16.90" >
+<IPTIMESLOT Number="1" IU="0.70" />
+<IPTIMESLOT Number="2" IU="0.70" />
+<IPTIMESLOT Number="3" IU="0.70" />
+<IPTIMESLOT Number="4" IU="0.70" />
+<IPTIMESLOT Number="5" IU="0.70" />
+<IPTIMESLOT Number="6" IU="0.80" />
+<IPTIMESLOT Number="7" IU="0.80" />
+<IPTIMESLOT Number="8" IU="0.90" />
+<IPTIMESLOT Number="9" IU="0.90" />
+<IPTIMESLOT Number="10" IU="0.75" />
+<IPTIMESLOT Number="11" IU="0.75" />
+<IPTIMESLOT Number="12" IU="0.65" />
+<IPTIMESLOT Number="13" IU="0.65" />
+<IPTIMESLOT Number="14" IU="0.65" />
+<IPTIMESLOT Number="15" IU="0.65" />
+<IPTIMESLOT Number="16" IU="0.65" />
+<IPTIMESLOT Number="17" IU="0.65" />
+<IPTIMESLOT Number="18" IU="0.65" />
+<IPTIMESLOT Number="19" IU="0.65" />
+<IPTIMESLOT Number="20" IU="0.65" />
+<IPTIMESLOT Number="21" IU="0.65" />
+<IPTIMESLOT Number="22" IU="0.65" />
+<IPTIMESLOT Number="23" IU="0.65" />
+<IPTIMESLOT Number="24" IU="0.70" />
+</IPPROFILE>
+<IPPROFILE Name="2" Active="0" IUday="20.22" >
+<IPTIMESLOT Number="1" IU="0.84" />
+<IPTIMESLOT Number="2" IU="0.84" />
+<IPTIMESLOT Number="3" IU="0.84" />
+<IPTIMESLOT Number="4" IU="0.84" />
+<IPTIMESLOT Number="5" IU="0.84" />
+<IPTIMESLOT Number="6" IU="0.96" />
+<IPTIMESLOT Number="7" IU="0.96" />
+<IPTIMESLOT Number="8" IU="1.05" />
+<IPTIMESLOT Number="9" IU="1.05" />
+<IPTIMESLOT Number="10" IU="0.90" />
+<IPTIMESLOT Number="11" IU="0.90" />
+<IPTIMESLOT Number="12" IU="0.78" />
+<IPTIMESLOT Number="13" IU="0.78" />
+<IPTIMESLOT Number="14" IU="0.78" />
+<IPTIMESLOT Number="15" IU="0.78" />
+<IPTIMESLOT Number="16" IU="0.78" />
+<IPTIMESLOT Number="17" IU="0.78" />
+<IPTIMESLOT Number="18" IU="0.78" />
+<IPTIMESLOT Number="19" IU="0.78" />
+<IPTIMESLOT Number="20" IU="0.78" />
+<IPTIMESLOT Number="21" IU="0.78" />
+<IPTIMESLOT Number="22" IU="0.78" />
+<IPTIMESLOT Number="23" IU="0.78" />
+<IPTIMESLOT Number="24" IU="0.84" />
+</IPPROFILE>
+<IPPROFILE Name="3" Active="0" IUday="25.24" >
+<IPTIMESLOT Number="1" IU="1.05" />
+<IPTIMESLOT Number="2" IU="1.05" />
+<IPTIMESLOT Number="3" IU="1.05" />
+<IPTIMESLOT Number="4" IU="1.05" />
+<IPTIMESLOT Number="5" IU="1.05" />
+<IPTIMESLOT Number="6" IU="1.20" />
+<IPTIMESLOT Number="7" IU="1.20" />
+<IPTIMESLOT Number="8" IU="1.35" />
+<IPTIMESLOT Number="9" IU="1.35" />
+<IPTIMESLOT Number="10" IU="1.10" />
+<IPTIMESLOT Number="11" IU="1.10" />
+<IPTIMESLOT Number="12" IU="0.97" />
+<IPTIMESLOT Number="13" IU="0.97" />
+<IPTIMESLOT Number="14" IU="0.97" />
+<IPTIMESLOT Number="15" IU="0.97" />
+<IPTIMESLOT Number="16" IU="0.97" />
+<IPTIMESLOT Number="17" IU="0.97" />
+<IPTIMESLOT Number="18" IU="0.97" />
+<IPTIMESLOT Number="19" IU="0.97" />
+<IPTIMESLOT Number="20" IU="0.97" />
+<IPTIMESLOT Number="21" IU="0.97" />
+<IPTIMESLOT Number="22" IU="0.97" />
+<IPTIMESLOT Number="23" IU="0.97" />
+<IPTIMESLOT Number="24" IU="1.05" />
+</IPPROFILE>
+<IPPROFILE Name="4" Active="0" IUday="21.75" >
+<IPTIMESLOT Number="1" IU="0.80" />
+<IPTIMESLOT Number="2" IU="0.80" />
+<IPTIMESLOT Number="3" IU="0.80" />
+<IPTIMESLOT Number="4" IU="0.80" />
+<IPTIMESLOT Number="5" IU="0.90" />
+<IPTIMESLOT Number="6" IU="1.00" />
+<IPTIMESLOT Number="7" IU="1.10" />
+<IPTIMESLOT Number="8" IU="1.20" />
+<IPTIMESLOT Number="9" IU="1.20" />
+<IPTIMESLOT Number="10" IU="1.20" />
+<IPTIMESLOT Number="11" IU="1.20" />
+<IPTIMESLOT Number="12" IU="1.20" />
+<IPTIMESLOT Number="13" IU="1.00" />
+<IPTIMESLOT Number="14" IU="1.00" />
+<IPTIMESLOT Number="15" IU="1.00" />
+<IPTIMESLOT Number="16" IU="0.85" />
+<IPTIMESLOT Number="17" IU="0.70" />
+<IPTIMESLOT Number="18" IU="0.70" />
+<IPTIMESLOT Number="19" IU="0.70" />
+<IPTIMESLOT Number="20" IU="0.70" />
+<IPTIMESLOT Number="21" IU="0.70" />
+<IPTIMESLOT Number="22" IU="0.70" />
+<IPTIMESLOT Number="23" IU="0.70" />
+<IPTIMESLOT Number="24" IU="0.80" />
+</IPPROFILE>
+<IPPROFILE Name="5" Active="0" IUday="22.45" >
+<IPTIMESLOT Number="1" IU="0.80" />
+<IPTIMESLOT Number="2" IU="0.80" />
+<IPTIMESLOT Number="3" IU="0.80" />
+<IPTIMESLOT Number="4" IU="0.80" />
+<IPTIMESLOT Number="5" IU="0.95" />
+<IPTIMESLOT Number="6" IU="1.10" />
+<IPTIMESLOT Number="7" IU="1.25" />
+<IPTIMESLOT Number="8" IU="1.40" />
+<IPTIMESLOT Number="9" IU="1.40" />
+<IPTIMESLOT Number="10" IU="1.40" />
+<IPTIMESLOT Number="11" IU="1.20" />
+<IPTIMESLOT Number="12" IU="1.00" />
+<IPTIMESLOT Number="13" IU="1.00" />
+<IPTIMESLOT Number="14" IU="1.00" />
+<IPTIMESLOT Number="15" IU="1.00" />
+<IPTIMESLOT Number="16" IU="0.85" />
+<IPTIMESLOT Number="17" IU="0.70" />
+<IPTIMESLOT Number="18" IU="0.70" />
+<IPTIMESLOT Number="19" IU="0.70" />
+<IPTIMESLOT Number="20" IU="0.70" />
+<IPTIMESLOT Number="21" IU="0.70" />
+<IPTIMESLOT Number="22" IU="0.70" />
+<IPTIMESLOT Number="23" IU="0.70" />
+<IPTIMESLOT Number="24" IU="0.80" />
+</IPPROFILE>
+<PUMP_SETTINGS PrimeQuantity="25.00">
+<BASAL_RATE_SETTINGS MaximumHourlyBasalRate="25.00" ActiveProf="1" TBRMaxAdjustment="250" TBRMaxDuration="1440" />
+</PUMP_SETTINGS>
+</IP>
+<IPDATA>
+<BOLUS Dt="2015-11-25" Tm="" type="" amount="0.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-25" Tm="" type="" amount="8.65" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-25" Tm="09:37" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-11-25" Tm="09:03" cbrf="0.75" profile="1" remark="changed 5" />
+<BASAL Dt="2015-11-25" Tm="09:02" cbrf="0.75" profile="1" remark="changed 3" />
+<BASAL Dt="2015-11-25" Tm="09:02" cbrf="0.75" profile="1" remark="changed 2" />
+<BASAL Dt="2015-11-25" Tm="09:01" cbrf="0.75" profile="1" remark="changed 1" />
+<BASAL Dt="2015-11-25" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-25" Tm="07:42" cbrf="0.90" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2015-11-25" Tm="07:16" cbrf="0.00" profile="1" TBRdec="  0%" remark="3 - 1" />
+<BASAL Dt="2015-11-25" Tm="07:07" cbrf="0.00" profile="3" TBRdec="  0%" cmd="2" remark="dur 00:35 h" />
+<BASAL Dt="2015-11-25" Tm="07:00" cbrf="1.35" profile="3" />
+<BASAL Dt="2015-11-25" Tm="05:00" cbrf="1.20" profile="3" />
+<BASAL Dt="2015-11-25" Tm="00:54" cbrf="1.05" profile="3" remark="TBR End" />
+<BASAL Dt="2015-11-25" Tm="00:09" cbrf="0.00" profile="3" TBRdec="  0%" cmd="2" remark="dur 00:45 h" />
+<BASAL Dt="2015-11-25" Tm="00:00" cbrf="1.05" profile="3" />
+<BOLUS Dt="2015-11-24" Tm="" type="" amount="23.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-24" Tm="" type="" amount="47.51" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-24" Tm="23:00" cbrf="1.05" profile="3" />
+<BASAL Dt="2015-11-24" Tm="21:56" cbrf="0.97" profile="3" remark="TBR End" />
+<BOLUS Dt="2015-11-24" Tm="21:32" type="Std" amount="4.00" cmd="1" />
+<BASAL Dt="2015-11-24" Tm="21:11" cbrf="0.00" profile="3" TBRdec="  0%" remark="dur 00:45 h" />
+<BOLUS Dt="2015-11-24" Tm="19:02" type="Std" amount="0.60" />
+<EVENT Dt="2015-11-24" Tm="16:51" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-11-24" Tm="15:58" type="Std" amount="2.00" />
+<BOLUS Dt="2015-11-24" Tm="15:25" type="Std" amount="1.70" cmd="1" />
+<BOLUS Dt="2015-11-24" Tm="12:55" type="Std" amount="5.20" cmd="1" />
+<BASAL Dt="2015-11-24" Tm="11:00" cbrf="0.97" profile="3" />
+<BASAL Dt="2015-11-24" Tm="09:00" cbrf="1.10" profile="3" />
+<BOLUS Dt="2015-11-24" Tm="08:13" type="Std" amount="8.50" cmd="1" />
+<BOLUS Dt="2015-11-24" Tm="08:11" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-11-24" Tm="07:00" cbrf="1.35" profile="3" />
+<BASAL Dt="2015-11-24" Tm="05:00" cbrf="1.20" profile="3" />
+<BASAL Dt="2015-11-24" Tm="00:00" cbrf="1.05" profile="3" />
+<BOLUS Dt="2015-11-23" Tm="" type="" amount="24.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-23" Tm="" type="" amount="44.95" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-23" Tm="23:47" cbrf="1.05" profile="3" remark="TBR End" />
+<BASAL Dt="2015-11-23" Tm="23:02" cbrf="0.11" profile="3" TBRdec=" 10%" cmd="2" remark="dur 00:45 h" />
+<BASAL Dt="2015-11-23" Tm="23:00" cbrf="1.05" profile="3" />
+<BOLUS Dt="2015-11-23" Tm="20:24" type="Std" amount="4.20" cmd="1" />
+<BOLUS Dt="2015-11-23" Tm="14:06" type="Std" amount="5.00" cmd="2" />
+<BOLUS Dt="2015-11-23" Tm="11:43" type="Std" amount="6.60" cmd="1" />
+<BASAL Dt="2015-11-23" Tm="11:04" cbrf="0.97" profile="3" remark="1 - 3" />
+<BASAL Dt="2015-11-23" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-23" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-23" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-23" Tm="07:59" type="Std" amount="7.30" cmd="1" />
+<BASAL Dt="2015-11-23" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-23" Tm="05:19" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-11-23" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-23" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-22" Tm="" type="" amount="28.10" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-22" Tm="" type="" amount="44.52" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-22" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-22" Tm="22:24" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-11-22" Tm="19:05" type="Std" amount="10.00" cmd="1" />
+<BOLUS Dt="2015-11-22" Tm="18:02" type="Std" amount="1.30" />
+<BASAL Dt="2015-11-22" Tm="17:46" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-22" Tm="17:16" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BASAL Dt="2015-11-22" Tm="17:16" cbrf="0.65" profile="1" remark="Run" />
+<BASAL Dt="2015-11-22" Tm="17:15" cbrf="0.00" remark="power up" />
+<BASAL Dt="2015-11-22" Tm="17:15" cbrf="0.00" remark="power down" />
+<BASAL Dt="2015-11-22" Tm="17:03" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-11-22" Tm="17:03" shortinfo="E2" description="battery empty" />
+<BOLUS Dt="2015-11-22" Tm="15:07" type="Std" amount="3.50" cmd="1" />
+<BOLUS Dt="2015-11-22" Tm="12:44" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-11-22" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-11-22" Tm="10:47" type="Std" amount="8.40" cmd="1" />
+<BASAL Dt="2015-11-22" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-22" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-22" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-22" Tm="06:48" type="Std" amount="1.40" cmd="1" />
+<BASAL Dt="2015-11-22" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-22" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-21" Tm="" type="" amount="37.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-21" Tm="" type="" amount="53.19" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-21" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-21" Tm="21:26" type="Std" amount="4.50" cmd="1" />
+<BOLUS Dt="2015-11-21" Tm="17:38" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-11-21" Tm="16:01" type="Std" amount="1.70" cmd="2" />
+<BOLUS Dt="2015-11-21" Tm="15:09" type="Std" amount="3.50" cmd="1" />
+<BOLUS Dt="2015-11-21" Tm="14:53" type="Std" amount="2.50" cmd="2" />
+<BOLUS Dt="2015-11-21" Tm="13:59" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-11-21" Tm="13:16" type="Std" amount="3.00" cmd="1" />
+<BASAL Dt="2015-11-21" Tm="13:11" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-11-21" Tm="13:11" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2015-11-21" Tm="13:11" type="Std" amount="1.50" cmd="2" />
+<EVENT Dt="2015-11-21" Tm="13:11" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-11-21" Tm="13:11" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-11-21" Tm="13:11" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-11-21" Tm="13:11" cbrf="0.65" profile="1" remark="TBR End" />
+<BOLUS Dt="2015-11-21" Tm="13:10" type="Std" amount="3.50" cmd="1" />
+<BASAL Dt="2015-11-21" Tm="11:11" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 02:00 h" />
+<BASAL Dt="2015-11-21" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-21" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-11-21" Tm="09:46" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-11-21" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-21" Tm="08:17" type="Std" amount="3.90" cmd="1" />
+<BASAL Dt="2015-11-21" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-21" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-21" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-20" Tm="" type="" amount="37.40" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-20" Tm="" type="" amount="53.48" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-11-20" Tm="23:39" type="Std" amount="2.20" cmd="2" />
+<BASAL Dt="2015-11-20" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-20" Tm="20:57" type="Std" amount="3.20" cmd="2" />
+<BOLUS Dt="2015-11-20" Tm="19:45" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-11-20" Tm="19:22" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-11-20" Tm="19:22" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-20" Tm="18:07" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:15 h" />
+<BOLUS Dt="2015-11-20" Tm="16:56" type="Std" amount="1.30" cmd="2" />
+<BOLUS Dt="2015-11-20" Tm="14:51" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-11-20" Tm="11:29" type="Std" amount="9.30" cmd="1" />
+<BASAL Dt="2015-11-20" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-20" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-20" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-20" Tm="08:10" type="Std" amount="7.50" cmd="1" />
+<BOLUS Dt="2015-11-20" Tm="07:04" type="Std" amount="4.90" cmd="1" />
+<BASAL Dt="2015-11-20" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-20" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-20" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-19" Tm="" type="" amount="28.70" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-19" Tm="" type="" amount="45.52" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-11-19" Tm="23:12" type="Std" amount="0.70" cmd="2" />
+<BASAL Dt="2015-11-19" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-19" Tm="22:19" type="Std" amount="1.80" cmd="2" />
+<BOLUS Dt="2015-11-19" Tm="20:49" type="Std" amount="3.00" cmd="2" />
+<BOLUS Dt="2015-11-19" Tm="17:24" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-11-19" Tm="16:08" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-11-19" Tm="14:59" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-11-19" Tm="13:29" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-11-19" Tm="13:24" type="Std" amount="6.50" cmd="1" />
+<BOLUS Dt="2015-11-19" Tm="12:22" type="Std" amount="2.00" cmd="2" />
+<BASAL Dt="2015-11-19" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-19" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-19" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-19" Tm="08:08" type="Std" amount="7.70" cmd="1" />
+<BASAL Dt="2015-11-19" Tm="07:14" cbrf="0.90" profile="1" remark="Run" />
+<EVENT Dt="2015-11-19" Tm="07:14" shortinfo="22.00 IU" description="prime infusion set" />
+<EVENT Dt="2015-11-19" Tm="07:11" description="cartridge changed" />
+<BASAL Dt="2015-11-19" Tm="07:09" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-11-19" Tm="07:09" shortinfo="E1" description="cartridge empty" />
+<BASAL Dt="2015-11-19" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-19" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-19" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-18" Tm="" type="" amount="24.30" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-18" Tm="" type="" amount="39.89" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-18" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-18" Tm="22:05" type="Std" amount="0.40" cmd="1" />
+<BOLUS Dt="2015-11-18" Tm="19:35" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-11-18" Tm="19:08" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-11-18" Tm="18:30" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-11-18" Tm="13:38" type="Std" amount="4.50" cmd="1" />
+<EVENT Dt="2015-11-18" Tm="13:38" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-11-18" Tm="13:29" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2015-11-18" Tm="13:23" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-18" Tm="11:23" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 02:00 h" />
+<BASAL Dt="2015-11-18" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-18" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-11-18" Tm="09:50" type="Std" amount="7.30" cmd="1" />
+<BASAL Dt="2015-11-18" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-18" Tm="08:21" type="Std" amount="1.60" cmd="1" />
+<BASAL Dt="2015-11-18" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-18" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-18" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-17" Tm="" type="" amount="23.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-17" Tm="" type="" amount="40.34" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-17" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-17" Tm="21:21" type="Std" amount="2.50" cmd="2" />
+<BOLUS Dt="2015-11-17" Tm="21:06" type="Std" amount="1.30" cmd="1" />
+<BOLUS Dt="2015-11-17" Tm="16:45" type="Std" amount="1.80" />
+<BOLUS Dt="2015-11-17" Tm="16:09" type="Std" amount="2.50" />
+<BOLUS Dt="2015-11-17" Tm="12:29" type="Std" amount="5.80" cmd="2" />
+<BASAL Dt="2015-11-17" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-17" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-17" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-17" Tm="08:21" type="Std" amount="7.50" cmd="1" />
+<BOLUS Dt="2015-11-17" Tm="07:57" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-11-17" Tm="07:35" type="Std" amount="1.50" cmd="1" />
+<BASAL Dt="2015-11-17" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-17" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-17" Tm="00:39" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-17" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2015-11-16" Tm="" type="" amount="28.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-16" Tm="" type="" amount="44.69" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-16" Tm="23:09" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:30 h" />
+<BASAL Dt="2015-11-16" Tm="23:09" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-16" Tm="23:00" cbrf="0.35" profile="1" TBRdec=" 50%" />
+<BASAL Dt="2015-11-16" Tm="22:29" cbrf="0.33" profile="1" TBRdec=" 50%" cmd="2" remark="dur 00:40 h" />
+<BOLUS Dt="2015-11-16" Tm="20:19" type="Std" amount="2.70" cmd="2" />
+<BOLUS Dt="2015-11-16" Tm="20:09" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-11-16" Tm="17:30" type="Mul" cmd="1" amount="5.70" remark="2.50 / 3.20  1:00 h" />
+<BOLUS Dt="2015-11-16" Tm="11:57" type="Std" amount="5.50" cmd="1" />
+<BOLUS Dt="2015-11-16" Tm="11:50" type="Std" amount="1.20" cmd="1" />
+<BASAL Dt="2015-11-16" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-16" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-16" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-16" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-16" Tm="06:58" type="Std" amount="9.50" cmd="1" />
+<BOLUS Dt="2015-11-16" Tm="05:57" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-11-16" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-16" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-15" Tm="" type="" amount="24.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-15" Tm="" type="" amount="39.86" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-11-15" Tm="23:25" type="Std" amount="0.70" cmd="1" />
+<BASAL Dt="2015-11-15" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-15" Tm="21:19" type="Std" amount="2.50" />
+<BASAL Dt="2015-11-15" Tm="21:19" cbrf="0.65" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2015-11-15" Tm="19:36" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:43 h" />
+<BOLUS Dt="2015-11-15" Tm="18:14" type="Std" amount="6.00" cmd="1" />
+<BOLUS Dt="2015-11-15" Tm="16:28" type="Std" amount="3.30" cmd="1" />
+<BOLUS Dt="2015-11-15" Tm="13:13" type="Std" amount="2.20" cmd="2" />
+<BASAL Dt="2015-11-15" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-11-15" Tm="10:31" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-11-15" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-15" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-15" Tm="08:03" type="Std" amount="2.70" cmd="1" />
+<BASAL Dt="2015-11-15" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-15" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-15" Tm="01:10" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-15" Tm="00:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BOLUS Dt="2015-11-14" Tm="" type="" amount="28.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-14" Tm="" type="" amount="43.43" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-14" Tm="23:40" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:30 h" />
+<BASAL Dt="2015-11-14" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-14" Tm="21:49" type="Std" amount="4.20" cmd="1" />
+<BOLUS Dt="2015-11-14" Tm="17:23" type="Std" amount="6.50" cmd="1" />
+<BOLUS Dt="2015-11-14" Tm="17:13" type="Std" amount="2.50" />
+<EVENT Dt="2015-11-14" Tm="17:00" shortinfo="W2" description="battery low" />
+<BOLUS Dt="2015-11-14" Tm="13:58" type="Std" amount="5.00" cmd="1" />
+<BASAL Dt="2015-11-14" Tm="13:26" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-11-14" Tm="13:26" shortinfo="7.30 IU" description="prime infusion set" />
+<BASAL Dt="2015-11-14" Tm="13:24" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-11-14" Tm="13:20" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-11-14" Tm="13:20" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-11-14" Tm="12:55" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-14" Tm="11:10" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:45 h" />
+<BASAL Dt="2015-11-14" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-11-14" Tm="10:19" type="Std" amount="4.90" cmd="2" />
+<BASAL Dt="2015-11-14" Tm="10:18" cbrf="0.74" profile="1" cmd="2" remark="Run" />
+<BOLUS Dt="2015-11-14" Tm="10:18" type="Std" amount="2.70" cmd="1" />
+<EVENT Dt="2015-11-14" Tm="10:18" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-11-14" Tm="10:18" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-11-14" Tm="10:18" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-11-14" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-14" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-14" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-14" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-14" Tm="03:04" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-14" Tm="01:49" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:15 h" />
+<BASAL Dt="2015-11-14" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-13" Tm="" type="" amount="24.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-13" Tm="" type="" amount="41.69" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-13" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-13" Tm="22:24" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-11-13" Tm="20:10" type="Std" amount="4.50" cmd="1" />
+<BOLUS Dt="2015-11-13" Tm="18:19" type="Std" amount="3.30" cmd="1" />
+<BOLUS Dt="2015-11-13" Tm="15:38" type="Std" amount="2.50" cmd="2" />
+<BOLUS Dt="2015-11-13" Tm="14:44" type="Std" amount="1.70" cmd="2" />
+<BOLUS Dt="2015-11-13" Tm="13:54" type="Std" amount="5.50" cmd="1" />
+<BASAL Dt="2015-11-13" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-13" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-13" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-13" Tm="07:46" type="Std" amount="5.80" cmd="1" />
+<BASAL Dt="2015-11-13" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-13" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-13" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-12" Tm="" type="" amount="25.70" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-12" Tm="" type="" amount="42.49" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-11-12" Tm="23:36" type="Std" amount="1.50" cmd="1" />
+<BOLUS Dt="2015-11-12" Tm="23:31" type="Std" amount="2.90" cmd="1" />
+<BASAL Dt="2015-11-12" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-12" Tm="20:30" type="Std" amount="1.80" cmd="2" />
+<BOLUS Dt="2015-11-12" Tm="19:35" type="Std" amount="2.00" cmd="1" />
+<BASAL Dt="2015-11-12" Tm="17:22" cbrf="0.65" profile="1" remark="Run" />
+<EVENT Dt="2015-11-12" Tm="17:22" shortinfo="15.10 IU" description="prime infusion set" />
+<EVENT Dt="2015-11-12" Tm="17:21" shortinfo="25.00 IU" description="prime infusion set" />
+<EVENT Dt="2015-11-12" Tm="17:17" description="cartridge changed" />
+<BOLUS Dt="2015-11-12" Tm="17:13" type="Std" amount="4.00" cmd="1" />
+<EVENT Dt="2015-11-12" Tm="17:13" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-11-12" Tm="17:13" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-11-12" Tm="17:13" shortinfo="E1" description="cartridge empty" />
+<BOLUS Dt="2015-11-12" Tm="16:35" type="Std" amount="1.90" cmd="2" />
+<BOLUS Dt="2015-11-12" Tm="11:09" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-11-12" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-12" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-12" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-12" Tm="08:08" type="Std" amount="7.10" cmd="1" />
+<EVENT Dt="2015-11-12" Tm="08:08" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2015-11-12" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-12" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-12" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-11" Tm="" type="" amount="18.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-11" Tm="" type="" amount="35.79" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-11" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-11" Tm="19:11" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-11-11" Tm="17:31" type="Std" amount="5.20" cmd="1" />
+<BOLUS Dt="2015-11-11" Tm="13:25" type="Std" amount="3.90" cmd="1" />
+<BASAL Dt="2015-11-11" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-11" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-11" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-11" Tm="07:10" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-11-11" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-11" Tm="05:57" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-11-11" Tm="05:43" type="Std" amount="1.30" cmd="1" />
+<BASAL Dt="2015-11-11" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-11" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-10" Tm="" type="" amount="25.30" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-10" Tm="" type="" amount="42.16" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-10" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-10" Tm="22:40" type="Std" amount="0.60" cmd="1" />
+<BASAL Dt="2015-11-10" Tm="22:27" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-11-10" Tm="22:24" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-11-10" Tm="20:09" type="Std" amount="1.30" cmd="2" />
+<BOLUS Dt="2015-11-10" Tm="19:58" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-11-10" Tm="16:34" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-11-10" Tm="16:24" type="Std" amount="2.70" cmd="2" />
+<BOLUS Dt="2015-11-10" Tm="11:47" type="Std" amount="5.20" cmd="1" />
+<BASAL Dt="2015-11-10" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-10" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-10" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-10" Tm="07:18" type="Std" amount="11.50" cmd="1" />
+<BASAL Dt="2015-11-10" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-10" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-10" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-09" Tm="" type="" amount="20.10" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-09" Tm="" type="" amount="36.44" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-09" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-09" Tm="20:15" type="Std" amount="1.20" cmd="2" />
+<BOLUS Dt="2015-11-09" Tm="19:30" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-11-09" Tm="16:12" type="Std" amount="1.80" cmd="2" />
+<BOLUS Dt="2015-11-09" Tm="12:19" type="Std" amount="5.00" cmd="1" />
+<BASAL Dt="2015-11-09" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-09" Tm="10:49" cbrf="0.74" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-09" Tm="10:04" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:45 h" />
+<BASAL Dt="2015-11-09" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-09" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-09" Tm="08:08" type="Std" amount="6.90" cmd="1" />
+<BASAL Dt="2015-11-09" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-09" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-11-09" Tm="00:09" type="Std" amount="0.20" cmd="1" />
+<BASAL Dt="2015-11-09" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-08" Tm="" type="" amount="23.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-08" Tm="" type="" amount="38.47" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-08" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-08" Tm="22:15" type="Std" amount="2.20" cmd="1" />
+<BOLUS Dt="2015-11-08" Tm="21:14" type="Std" amount="2.00" />
+<BASAL Dt="2015-11-08" Tm="21:14" cbrf="0.65" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2015-11-08" Tm="19:33" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:41 h" />
+<BOLUS Dt="2015-11-08" Tm="16:03" type="Ext" cmd="1" amount="4.50" remark=" 0:30 h" />
+<BASAL Dt="2015-11-08" Tm="15:19" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-08" Tm="14:49" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BOLUS Dt="2015-11-08" Tm="13:19" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-11-08" Tm="12:50" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-11-08" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-08" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-11-08" Tm="09:44" type="Std" amount="8.60" cmd="1" />
+<BASAL Dt="2015-11-08" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-08" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-08" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-11-08" Tm="00:51" type="Std" amount="0.70" cmd="1" />
+<BASAL Dt="2015-11-08" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-07" Tm="" type="" amount="28.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-07" Tm="" type="" amount="44.25" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-07" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-07" Tm="20:46" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-11-07" Tm="20:44" type="Std" amount="4.50" cmd="1" />
+<BOLUS Dt="2015-11-07" Tm="17:15" type="Std" amount="2.00" cmd="1" />
+<BOLUS Dt="2015-11-07" Tm="15:51" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-11-07" Tm="14:27" type="Std" amount="7.30" cmd="1" />
+<BASAL Dt="2015-11-07" Tm="13:11" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-11-07" Tm="11:26" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:45 h" />
+<BASAL Dt="2015-11-07" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-07" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-11-07" Tm="09:35" type="Std" amount="7.20" cmd="1" />
+<BASAL Dt="2015-11-07" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-07" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-07" Tm="06:49" type="Std" amount="3.50" cmd="1" />
+<BASAL Dt="2015-11-07" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-07" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-06" Tm="" type="" amount="27.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-06" Tm="" type="" amount="44.38" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-06" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-06" Tm="20:02" type="Std" amount="9.60" cmd="1" />
+<BASAL Dt="2015-11-06" Tm="15:15" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-11-06" Tm="15:15" cbrf="0.00" cmd="2" remark="Stop" />
+<BASAL Dt="2015-11-06" Tm="15:14" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-11-06" Tm="15:14" cbrf="0.00" cmd="2" remark="Stop" />
+<BASAL Dt="2015-11-06" Tm="15:14" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-11-06" Tm="15:14" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-11-06" Tm="13:37" type="Std" amount="2.00" cmd="1" />
+<BOLUS Dt="2015-11-06" Tm="11:22" type="Std" amount="6.20" cmd="1" />
+<BASAL Dt="2015-11-06" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-06" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-06" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-06" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-06" Tm="06:47" type="Std" amount="2.90" cmd="2" />
+<BASAL Dt="2015-11-06" Tm="06:47" cbrf="0.80" profile="1" cmd="2" remark="Run" />
+<BOLUS Dt="2015-11-06" Tm="06:46" type="Std" amount="6.80" cmd="1" />
+<EVENT Dt="2015-11-06" Tm="06:46" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-11-06" Tm="06:46" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-11-06" Tm="06:46" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-11-06" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-06" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-05" Tm="" type="" amount="28.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-05" Tm="" type="" amount="45.30" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-11-05" Tm="23:20" type="Std" amount="2.30" cmd="1" />
+<BASAL Dt="2015-11-05" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-05" Tm="19:55" type="Std" amount="5.50" cmd="1" />
+<BOLUS Dt="2015-11-05" Tm="15:22" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-11-05" Tm="11:43" type="Std" amount="5.20" cmd="1" />
+<BOLUS Dt="2015-11-05" Tm="11:33" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-11-05" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-05" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-05" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-05" Tm="08:06" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-11-05" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-05" Tm="06:39" type="Std" amount="2.50" cmd="2" />
+<BASAL Dt="2015-11-05" Tm="06:38" cbrf="0.80" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-11-05" Tm="06:38" shortinfo="4.50 IU" description="prime infusion set" />
+<EVENT Dt="2015-11-05" Tm="06:36" description="cartridge changed" />
+<BOLUS Dt="2015-11-05" Tm="06:34" type="Std" amount="0.60" cmd="2" />
+<EVENT Dt="2015-11-05" Tm="06:34" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-11-05" Tm="06:34" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-11-05" Tm="06:34" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-11-05" Tm="06:34" cbrf="0.80" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-11-05" Tm="06:34" shortinfo="E4" description="occlusion" />
+<EVENT Dt="2015-11-05" Tm="06:33" shortinfo="E4" description="occlusion" />
+<EVENT Dt="2015-11-05" Tm="06:33" shortinfo="E4" description="occlusion" />
+<EVENT Dt="2015-11-05" Tm="06:32" shortinfo="E4" description="occlusion" />
+<EVENT Dt="2015-11-05" Tm="06:32" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2015-11-05" Tm="06:32" type="Std" amount="0.90" cmd="1" />
+<EVENT Dt="2015-11-05" Tm="06:32" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-11-05" Tm="06:32" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-11-05" Tm="06:32" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-11-05" Tm="06:22" cbrf="0.80" profile="1" remark="Run" />
+<BASAL Dt="2015-11-05" Tm="06:21" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-11-05" Tm="06:21" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-11-05" Tm="05:21" cbrf="0.80" profile="1" remark="Run" />
+<BASAL Dt="2015-11-05" Tm="05:21" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-11-05" Tm="05:21" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-11-05" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-05" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-04" Tm="" type="" amount="22.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-04" Tm="" type="" amount="39.69" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-04" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-04" Tm="20:20" type="Std" amount="3.70" cmd="1" />
+<BOLUS Dt="2015-11-04" Tm="15:25" type="Std" amount="3.00" cmd="1" />
+<EVENT Dt="2015-11-04" Tm="15:25" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-11-04" Tm="12:54" type="Std" amount="4.20" cmd="1" />
+<BASAL Dt="2015-11-04" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-11-04" Tm="10:27" type="Std" amount="1.90" cmd="2" />
+<BASAL Dt="2015-11-04" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-04" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-04" Tm="07:14" type="Std" amount="10.00" cmd="1" />
+<BASAL Dt="2015-11-04" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-04" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-04" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-03" Tm="" type="" amount="30.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-03" Tm="" type="" amount="47.69" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-11-03" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-03" Tm="21:09" type="Std" amount="4.80" cmd="1" />
+<BOLUS Dt="2015-11-03" Tm="19:20" type="Std" amount="3.80" cmd="1" />
+<BOLUS Dt="2015-11-03" Tm="18:34" type="Std" amount="2.10" cmd="2" />
+<BOLUS Dt="2015-11-03" Tm="15:37" type="Std" amount="3.00" cmd="2" />
+<BOLUS Dt="2015-11-03" Tm="12:11" type="Std" amount="5.20" cmd="1" />
+<BASAL Dt="2015-11-03" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-03" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-11-03" Tm="09:18" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-11-03" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-03" Tm="07:21" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-11-03" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-11-03" Tm="06:24" type="Std" amount="1.90" cmd="1" />
+<BASAL Dt="2015-11-03" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-03" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-02" Tm="" type="" amount="22.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-02" Tm="" type="" amount="39.39" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-11-02" Tm="23:28" type="Std" amount="0.80" cmd="1" />
+<BASAL Dt="2015-11-02" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-02" Tm="19:36" type="Std" amount="2.70" cmd="1" />
+<BOLUS Dt="2015-11-02" Tm="16:15" type="Std" amount="2.60" cmd="1" />
+<BOLUS Dt="2015-11-02" Tm="13:26" type="Std" amount="6.00" cmd="1" />
+<BASAL Dt="2015-11-02" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-11-02" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-11-02" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-11-02" Tm="08:19" type="Std" amount="7.50" cmd="1" />
+<BOLUS Dt="2015-11-02" Tm="07:10" type="Std" amount="2.90" cmd="1" />
+<BASAL Dt="2015-11-02" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-02" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-11-02" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-01" Tm="" type="" amount="35.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-11-01" Tm="" type="" amount="52.69" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-11-01" Tm="23:04" type="Std" amount="3.50" cmd="1" />
+<BASAL Dt="2015-11-01" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-11-01" Tm="21:19" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-11-01" Tm="20:02" type="Std" amount="2.70" cmd="2" />
+<BOLUS Dt="2015-11-01" Tm="19:14" type="Std" amount="7.40" cmd="1" />
+<BOLUS Dt="2015-11-01" Tm="16:14" type="Std" amount="1.10" cmd="1" />
+<BOLUS Dt="2015-11-01" Tm="14:14" type="Std" amount="5.40" cmd="1" />
+<BASAL Dt="2015-11-01" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-11-01" Tm="10:49" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-11-01" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-11-01" Tm="09:55" type="Std" amount="3.70" cmd="1" />
+<BASAL Dt="2015-11-01" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-11-01" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-11-01" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-11-01" Tm="04:42" type="Std" amount="3.50" cmd="1" />
+<BASAL Dt="2015-11-01" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-31" Tm="" type="" amount="23.40" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-31" Tm="" type="" amount="39.15" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-10-31" Tm="23:08" type="Std" amount="4.70" cmd="1" />
+<BASAL Dt="2015-10-31" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-31" Tm="22:09" type="Std" amount="1.80" cmd="1" />
+<BOLUS Dt="2015-10-31" Tm="18:05" type="Std" amount="1.30" cmd="1" />
+<BOLUS Dt="2015-10-31" Tm="16:39" type="Std" amount="4.50" cmd="1" />
+<BOLUS Dt="2015-10-31" Tm="15:26" type="Std" amount="2.50" cmd="2" />
+<BOLUS Dt="2015-10-31" Tm="15:03" type="Std" amount="2.80" cmd="1" />
+<BASAL Dt="2015-10-31" Tm="14:27" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-31" Tm="12:42" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:45 h" />
+<BASAL Dt="2015-10-31" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-31" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-10-31" Tm="09:52" type="Std" amount="5.80" cmd="1" />
+<BASAL Dt="2015-10-31" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-10-31" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-31" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-10-31" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-30" Tm="" type="" amount="35.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-30" Tm="" type="" amount="52.49" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-30" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-30" Tm="22:50" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-10-30" Tm="21:13" type="Std" amount="2.40" cmd="2" />
+<BOLUS Dt="2015-10-30" Tm="17:57" type="Std" amount="1.80" cmd="2" />
+<BOLUS Dt="2015-10-30" Tm="16:48" type="Std" amount="5.50" cmd="1" />
+<BOLUS Dt="2015-10-30" Tm="14:55" type="Std" amount="2.50" cmd="2" />
+<BASAL Dt="2015-10-30" Tm="13:21" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-30" Tm="13:21" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-10-30" Tm="13:21" shortinfo="E4" description="occlusion" />
+<BOLUS Dt="2015-10-30" Tm="12:54" type="Std" amount="4.00" cmd="2" />
+<BOLUS Dt="2015-10-30" Tm="12:47" type="Std" amount="7.70" cmd="1" />
+<BASAL Dt="2015-10-30" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-30" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-10-30" Tm="09:19" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-10-30" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-30" Tm="08:07" type="Std" amount="0.80" cmd="1" />
+<BASAL Dt="2015-10-30" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-30" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-10-30" Tm="04:13" type="Std" amount="0.90" cmd="1" />
+<BASAL Dt="2015-10-30" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-29" Tm="" type="" amount="34.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-29" Tm="" type="" amount="48.87" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-29" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-29" Tm="21:02" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-10-29" Tm="20:49" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-29" Tm="19:04" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:45 h" />
+<BOLUS Dt="2015-10-29" Tm="16:36" type="Ext" amount="5.00" remark=" 1:30 h" />
+<BOLUS Dt="2015-10-29" Tm="16:23" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-10-29" Tm="16:22" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-10-29" Tm="16:22" shortinfo="19.40 IU" description="prime infusion set" />
+<EVENT Dt="2015-10-29" Tm="16:19" description="cartridge changed" />
+<EVENT Dt="2015-10-29" Tm="16:18" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-10-29" Tm="16:18" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-10-29" Tm="16:18" shortinfo="E1" description="cartridge empty" />
+<BOLUS Dt="2015-10-29" Tm="16:18" type="Mul" cmd="1" amount="1.50" remark="1.50 / 0.00  0:00 h" />
+<BOLUS Dt="2015-10-29" Tm="11:57" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-10-29" Tm="11:28" type="Std" amount="7.10" cmd="1" />
+<BASAL Dt="2015-10-29" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-29" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-29" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-29" Tm="08:27" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-10-29" Tm="07:23" type="Std" amount="10.90" cmd="1" />
+<EVENT Dt="2015-10-29" Tm="07:23" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2015-10-29" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-29" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-10-29" Tm="02:24" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-29" Tm="00:00" cbrf="0.35" profile="1" TBRdec=" 50%" />
+<BOLUS Dt="2015-10-28" Tm="" type="" amount="28.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-28" Tm="" type="" amount="44.51" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-28" Tm="23:00" cbrf="0.35" profile="1" TBRdec=" 50%" />
+<BASAL Dt="2015-10-28" Tm="22:54" cbrf="0.33" profile="1" TBRdec=" 50%" remark="dur 03:30 h" />
+<BOLUS Dt="2015-10-28" Tm="20:00" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-10-28" Tm="18:01" type="Std" amount="4.70" cmd="1" />
+<BOLUS Dt="2015-10-28" Tm="16:25" type="Std" amount="3.60" cmd="1" />
+<BOLUS Dt="2015-10-28" Tm="13:27" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-10-28" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-28" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-28" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-28" Tm="07:52" type="Std" amount="9.30" cmd="1" />
+<BASAL Dt="2015-10-28" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-28" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-10-28" Tm="00:14" type="Std" amount="0.40" cmd="1" />
+<BASAL Dt="2015-10-28" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-27" Tm="" type="" amount="25.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-27" Tm="" type="" amount="42.39" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-27" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-27" Tm="21:31" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-10-27" Tm="20:49" type="Std" amount="3.70" cmd="1" />
+<BOLUS Dt="2015-10-27" Tm="19:40" type="Std" amount="1.40" cmd="1" />
+<BOLUS Dt="2015-10-27" Tm="15:50" type="Std" amount="2.00" cmd="1" />
+<BOLUS Dt="2015-10-27" Tm="12:07" type="Std" amount="6.10" cmd="1" />
+<BASAL Dt="2015-10-27" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-27" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-27" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-27" Tm="07:58" type="Std" amount="9.80" cmd="1" />
+<BASAL Dt="2015-10-27" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-27" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-10-27" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-26" Tm="" type="" amount="27.10" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-26" Tm="" type="" amount="43.30" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-26" Tm="23:44" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-26" Tm="23:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2015-10-26" Tm="22:44" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2015-10-26" Tm="20:45" type="Std" amount="1.50" cmd="1" />
+<BOLUS Dt="2015-10-26" Tm="20:44" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-10-26" Tm="20:29" type="Std" amount="3.60" cmd="1" />
+<BOLUS Dt="2015-10-26" Tm="18:05" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-10-26" Tm="12:21" type="Std" amount="6.00" cmd="1" />
+<BASAL Dt="2015-10-26" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-26" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-26" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-26" Tm="08:08" type="Std" amount="6.00" cmd="1" />
+<BOLUS Dt="2015-10-26" Tm="07:30" type="Std" amount="3.00" cmd="1" />
+<BASAL Dt="2015-10-26" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-26" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-10-26" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-25" Tm="" type="" amount="15.70" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-25" Tm="" type="" amount="22.91" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-25" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-25" Tm="22:55" type="Std" amount="0.60" cmd="1" />
+<BOLUS Dt="2015-10-25" Tm="21:02" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-10-25" Tm="19:40" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-10-25" Tm="19:20" type="Std" amount="1.70" cmd="1" />
+<BOLUS Dt="2015-10-25" Tm="14:21" type="Std" amount="7.40" cmd="1" />
+<BASAL Dt="2015-10-25" Tm="13:00" cbrf="0.65" profile="1" remark="Run" />
+<BASAL Dt="2015-10-25" Tm="12:58" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-10-25" Tm="12:58" cbrf="0.65" profile="1" remark="time / date set" />
+<BASAL Dt="2015-10-25" Tm="12:57" cbrf="0.65" profile="1" remark="time / date corrected" />
+<BASAL Dt="2015-10-25" Tm="12:56" cbrf="0.65" profile="1" remark="time / date set (time shift back)" Tsb="1" TsbDiffMins="60" />
+<BOLUS Dt="2015-10-24" Tm="" type="" amount="30.20" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-24" Tm="" type="" amount="47.08" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-24" Tm="23:59" cbrf="0.70" profile="1" remark="time / date corrected" Virtual="1" />
+<BASAL Dt="2015-10-24" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-24" Tm="21:58" type="Std" amount="1.70" cmd="2" />
+<BOLUS Dt="2015-10-24" Tm="20:50" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-10-24" Tm="18:27" type="Std" amount="4.30" cmd="1" />
+<BOLUS Dt="2015-10-24" Tm="14:30" type="Std" amount="1.50" cmd="1" />
+<BOLUS Dt="2015-10-24" Tm="11:17" type="Std" amount="5.50" cmd="1" />
+<BASAL Dt="2015-10-24" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-10-24" Tm="10:31" type="Std" amount="2.20" cmd="1" />
+<BASAL Dt="2015-10-24" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-24" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-24" Tm="07:32" type="Std" amount="7.10" cmd="1" />
+<BASAL Dt="2015-10-24" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-24" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-10-24" Tm="01:16" type="Std" amount="2.90" cmd="1" />
+<BASAL Dt="2015-10-24" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-23" Tm="" type="" amount="25.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-23" Tm="" type="" amount="43.63" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-23" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-23" Tm="22:08" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-10-23" Tm="20:30" type="Std" amount="8.40" cmd="1" />
+<BASAL Dt="2015-10-23" Tm="19:03" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-23" Tm="18:33" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BOLUS Dt="2015-10-23" Tm="11:40" type="Std" amount="5.00" cmd="1" />
+<BASAL Dt="2015-10-23" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-23" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-23" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-23" Tm="08:02" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-10-23" Tm="07:57" cbrf="0.90" profile="1" remark="4 - 1" />
+<BASAL Dt="2015-10-23" Tm="07:56" cbrf="1.20" profile="4" remark="Run" />
+<EVENT Dt="2015-10-23" Tm="07:56" shortinfo="23.80 IU" description="prime infusion set" />
+<EVENT Dt="2015-10-23" Tm="07:52" description="cartridge changed" />
+<BASAL Dt="2015-10-23" Tm="07:45" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-10-23" Tm="07:45" shortinfo="E1" description="cartridge empty" />
+<BASAL Dt="2015-10-23" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-23" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-23" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-23" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-23" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-22" Tm="" type="" amount="21.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-22" Tm="" type="" amount="43.53" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-22" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-22" Tm="20:51" type="Std" amount="4.40" cmd="1" />
+<BASAL Dt="2015-10-22" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-22" Tm="15:00" cbrf="0.85" profile="4" />
+<EVENT Dt="2015-10-22" Tm="13:03" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-10-22" Tm="12:15" type="Std" amount="6.30" cmd="1" />
+<BASAL Dt="2015-10-22" Tm="12:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-22" Tm="08:27" cbrf="1.20" profile="4" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-22" Tm="08:26" cbrf="0.00" cmd="2" remark="Stop" />
+<BASAL Dt="2015-10-22" Tm="08:26" cbrf="1.20" profile="4" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-22" Tm="08:26" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-10-22" Tm="08:24" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-10-22" Tm="07:04" type="Std" amount="6.50" cmd="1" />
+<BASAL Dt="2015-10-22" Tm="07:00" cbrf="1.20" profile="4" />
+<BOLUS Dt="2015-10-22" Tm="06:40" type="Std" amount="3.60" cmd="1" />
+<BASAL Dt="2015-10-22" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-22" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-22" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-22" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-21" Tm="" type="" amount="25.70" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-21" Tm="" type="" amount="45.25" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-21" Tm="23:00" cbrf="0.80" profile="4" />
+<BASAL Dt="2015-10-21" Tm="21:23" cbrf="0.70" profile="4" remark="Run" />
+<BASAL Dt="2015-10-21" Tm="21:21" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-10-21" Tm="21:17" cbrf="0.70" profile="4" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-21" Tm="21:16" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-10-21" Tm="20:58" type="Std" amount="1.90" cmd="2" />
+<BOLUS Dt="2015-10-21" Tm="19:50" type="Std" amount="1.60" cmd="2" />
+<EVENT Dt="2015-10-21" Tm="19:50" shortinfo="W8" description="bolus cancelled" />
+<BOLUS Dt="2015-10-21" Tm="18:53" type="Std" amount="5.20" cmd="1" />
+<BASAL Dt="2015-10-21" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-21" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-21" Tm="14:13" type="Mul" cmd="1" amount="6.90" remark="4.30 / 2.60  1:29 h" />
+<BASAL Dt="2015-10-21" Tm="13:10" cbrf="1.00" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-21" Tm="12:00" cbrf="0.00" profile="4" TBRdec="  0%" />
+<BASAL Dt="2015-10-21" Tm="11:10" cbrf="0.00" profile="4" TBRdec="  0%" remark="dur 02:00 h" />
+<BOLUS Dt="2015-10-21" Tm="08:41" type="Std" amount="8.00" cmd="1" />
+<BASAL Dt="2015-10-21" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-21" Tm="06:57" cbrf="1.10" profile="4" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-21" Tm="06:57" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-10-21" Tm="06:57" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-10-21" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-21" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-21" Tm="04:00" cbrf="0.90" profile="4" />
+<BOLUS Dt="2015-10-21" Tm="01:04" type="Std" amount="2.10" cmd="1" />
+<BASAL Dt="2015-10-21" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-20" Tm="" type="" amount="22.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-20" Tm="" type="" amount="44.35" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-20" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-20" Tm="20:51" type="Std" amount="3.70" cmd="1" />
+<BOLUS Dt="2015-10-20" Tm="16:17" type="Std" amount="4.80" cmd="1" />
+<BASAL Dt="2015-10-20" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-20" Tm="15:00" cbrf="0.85" profile="4" />
+<BASAL Dt="2015-10-20" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-20" Tm="11:29" type="Std" amount="6.90" cmd="1" />
+<BOLUS Dt="2015-10-20" Tm="07:24" type="Std" amount="7.20" cmd="1" />
+<BASAL Dt="2015-10-20" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-20" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-20" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-20" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-20" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-19" Tm="" type="" amount="21.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-19" Tm="" type="" amount="43.35" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-10-19" Tm="23:48" type="Std" amount="1.20" cmd="1" />
+<BASAL Dt="2015-10-19" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-19" Tm="22:01" type="Std" amount="3.00" />
+<BOLUS Dt="2015-10-19" Tm="16:45" type="Std" amount="2.00" cmd="2" />
+<BASAL Dt="2015-10-19" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-19" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-19" Tm="13:05" type="Std" amount="2.50" cmd="2" />
+<BOLUS Dt="2015-10-19" Tm="12:20" type="Std" amount="4.60" cmd="1" />
+<BASAL Dt="2015-10-19" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-19" Tm="08:26" type="Std" amount="6.50" cmd="1" />
+<BASAL Dt="2015-10-19" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-19" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-19" Tm="05:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-19" Tm="04:53" type="Std" amount="1.30" cmd="1" />
+<BASAL Dt="2015-10-19" Tm="04:00" cbrf="0.90" profile="4" />
+<BOLUS Dt="2015-10-19" Tm="00:26" type="Std" amount="0.50" cmd="1" />
+<BASAL Dt="2015-10-19" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-18" Tm="" type="" amount="32.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-18" Tm="" type="" amount="53.21" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-18" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-18" Tm="21:53" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-10-18" Tm="20:41" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-10-18" Tm="20:27" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-10-18" Tm="20:22" cbrf="0.70" profile="4" remark="TBR End (cancelled)" />
+<BASAL Dt="2015-10-18" Tm="19:36" cbrf="0.00" profile="4" TBRdec="  0%" cmd="2" remark="dur 00:46 h" />
+<BOLUS Dt="2015-10-18" Tm="19:23" type="Std" amount="1.80" cmd="1" />
+<BOLUS Dt="2015-10-18" Tm="17:20" type="Std" amount="3.80" cmd="1" />
+<BASAL Dt="2015-10-18" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-18" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-18" Tm="14:53" type="Std" amount="3.00" />
+<BASAL Dt="2015-10-18" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-18" Tm="09:04" type="Std" amount="12.40" cmd="1" />
+<BASAL Dt="2015-10-18" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-18" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-18" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-18" Tm="04:00" cbrf="0.90" profile="4" />
+<BOLUS Dt="2015-10-18" Tm="03:17" type="Std" amount="2.00" />
+<BOLUS Dt="2015-10-18" Tm="00:09" type="Std" amount="1.50" />
+<BASAL Dt="2015-10-18" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-17" Tm="" type="" amount="14.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-17" Tm="" type="" amount="28.81" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-17" Tm="23:29" cbrf="0.80" profile="4" remark="Run" />
+<BASAL Dt="2015-10-17" Tm="23:28" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-10-17" Tm="23:28" cbrf="0.80" profile="4" remark="Run" />
+<BASAL Dt="2015-10-17" Tm="23:25" cbrf="0.00" remark="time / date set" />
+<BASAL Dt="2015-10-17" Tm="13:25" cbrf="0.00" remark="time / date corrected" />
+<BASAL Dt="2015-10-17" Tm="13:22" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-10-17" Tm="13:19" cbrf="1.00" profile="4" remark="Run" />
+<BASAL Dt="2015-10-17" Tm="13:17" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-10-17" Tm="13:09" cbrf="1.00" profile="4" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-17" Tm="13:07" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-10-17" Tm="12:11" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-10-17" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-17" Tm="09:52" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-10-17" Tm="07:10" type="Std" amount="2.10" cmd="1" />
+<BASAL Dt="2015-10-17" Tm="07:00" cbrf="1.20" profile="4" />
+<BOLUS Dt="2015-10-17" Tm="06:44" type="Std" amount="2.50" cmd="2" />
+<BASAL Dt="2015-10-17" Tm="06:00" cbrf="1.10" profile="4" />
+<BOLUS Dt="2015-10-17" Tm="05:21" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-10-17" Tm="05:05" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-10-17" Tm="05:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-17" Tm="04:06" type="Std" amount="1.30" cmd="2" />
+<BASAL Dt="2015-10-17" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-17" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-16" Tm="" type="" amount="18.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-16" Tm="" type="" amount="40.35" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-16" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-16" Tm="21:20" type="Std" amount="4.70" cmd="1" />
+<BOLUS Dt="2015-10-16" Tm="19:26" type="Std" amount="0.60" cmd="2" />
+<BOLUS Dt="2015-10-16" Tm="18:34" type="Std" amount="1.40" cmd="1" />
+<BOLUS Dt="2015-10-16" Tm="17:26" type="Std" amount="1.30" />
+<BASAL Dt="2015-10-16" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-16" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-16" Tm="13:59" type="Std" amount="1.50" />
+<BASAL Dt="2015-10-16" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-16" Tm="09:36" type="Std" amount="9.10" cmd="1" />
+<BASAL Dt="2015-10-16" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-16" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-16" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-16" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-16" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-15" Tm="" type="" amount="24.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-15" Tm="" type="" amount="46.31" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-15" Tm="23:50" cbrf="0.80" profile="4" cmd="2" remark="Run" />
+<EVENT Dt="2015-10-15" Tm="23:50" shortinfo="9.00 IU" description="prime infusion set" />
+<EVENT Dt="2015-10-15" Tm="23:47" description="cartridge changed" />
+<BASAL Dt="2015-10-15" Tm="23:47" cbrf="0.00" cmd="2" remark="Stop" />
+<BASAL Dt="2015-10-15" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-15" Tm="22:37" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-10-15" Tm="22:21" type="Std" amount="1.40" />
+<BASAL Dt="2015-10-15" Tm="22:21" cbrf="0.70" profile="4" remark="Run" />
+<BASAL Dt="2015-10-15" Tm="22:21" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2015-10-15" Tm="17:16" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-10-15" Tm="17:07" type="Std" amount="2.70" cmd="2" />
+<BOLUS Dt="2015-10-15" Tm="16:23" type="Std" amount="1.30" cmd="2" />
+<BASAL Dt="2015-10-15" Tm="16:00" cbrf="0.70" profile="4" />
+<EVENT Dt="2015-10-15" Tm="15:27" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2015-10-15" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-15" Tm="13:27" type="Std" amount="7.20" cmd="1" />
+<BASAL Dt="2015-10-15" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-15" Tm="07:41" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-10-15" Tm="07:25" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-10-15" Tm="07:04" type="Std" amount="1.50" cmd="1" />
+<BASAL Dt="2015-10-15" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-15" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-15" Tm="05:18" cbrf="1.00" profile="4" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-15" Tm="05:18" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-10-15" Tm="05:18" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-10-15" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-15" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-15" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-14" Tm="" type="" amount="22.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-14" Tm="" type="" amount="43.50" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-14" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-14" Tm="22:56" type="Std" amount="1.40" cmd="2" />
+<BOLUS Dt="2015-10-14" Tm="19:17" type="Std" amount="1.60" cmd="2" />
+<BOLUS Dt="2015-10-14" Tm="18:59" type="Std" amount="4.40" cmd="1" />
+<BOLUS Dt="2015-10-14" Tm="18:37" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-10-14" Tm="16:00" cbrf="0.70" profile="4" />
+<BOLUS Dt="2015-10-14" Tm="15:03" type="Std" amount="3.30" cmd="2" />
+<BASAL Dt="2015-10-14" Tm="15:00" cbrf="0.85" profile="4" />
+<BASAL Dt="2015-10-14" Tm="14:51" cbrf="1.00" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-14" Tm="14:06" cbrf="0.00" profile="4" TBRdec="  0%" cmd="2" remark="dur 00:45 h" />
+<BOLUS Dt="2015-10-14" Tm="12:30" type="Std" amount="1.60" cmd="2" />
+<BASAL Dt="2015-10-14" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-14" Tm="09:50" type="Std" amount="5.70" cmd="1" />
+<BOLUS Dt="2015-10-14" Tm="08:09" type="Std" amount="3.00" cmd="1" />
+<BASAL Dt="2015-10-14" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-14" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-14" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-14" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-14" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-13" Tm="" type="" amount="31.30" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-13" Tm="" type="" amount="53.05" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-13" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-13" Tm="20:10" type="Std" amount="0.90" cmd="2" />
+<BOLUS Dt="2015-10-13" Tm="17:16" type="Std" amount="6.50" cmd="1" />
+<BOLUS Dt="2015-10-13" Tm="16:41" type="Std" amount="1.50" />
+<BOLUS Dt="2015-10-13" Tm="16:08" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-10-13" Tm="16:01" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-10-13" Tm="16:00" cbrf="0.70" profile="4" />
+<BOLUS Dt="2015-10-13" Tm="15:25" type="Std" amount="1.30" cmd="1" />
+<BASAL Dt="2015-10-13" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-13" Tm="12:48" type="Std" amount="3.70" cmd="1" />
+<BASAL Dt="2015-10-13" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-13" Tm="08:20" type="Mul" cmd="2"  amount="7.50" remark="4.50 / 3.00  1:28 h" />
+<BASAL Dt="2015-10-13" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-13" Tm="06:00" cbrf="1.10" profile="4" />
+<BOLUS Dt="2015-10-13" Tm="05:21" type="Std" amount="5.90" cmd="1" />
+<BASAL Dt="2015-10-13" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-13" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-13" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-12" Tm="" type="" amount="28.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-12" Tm="" type="" amount="49.95" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-12" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-12" Tm="21:27" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-10-12" Tm="19:56" type="Std" amount="1.50" />
+<BOLUS Dt="2015-10-12" Tm="16:38" type="Std" amount="6.50" />
+<BASAL Dt="2015-10-12" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-12" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-12" Tm="14:00" type="Std" amount="4.90" />
+<BOLUS Dt="2015-10-12" Tm="12:04" type="Std" amount="1.60" />
+<BASAL Dt="2015-10-12" Tm="12:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-12" Tm="11:21" cbrf="1.20" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-12" Tm="10:51" cbrf="0.00" profile="4" TBRdec="  0%" remark="dur 00:30 h" />
+<BOLUS Dt="2015-10-12" Tm="09:52" type="Std" amount="3.50" />
+<BOLUS Dt="2015-10-12" Tm="08:24" type="Std" amount="1.00" />
+<BASAL Dt="2015-10-12" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-12" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-12" Tm="05:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-12" Tm="04:35" type="Std" amount="5.80" />
+<BASAL Dt="2015-10-12" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-12" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-11" Tm="" type="" amount="36.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-11" Tm="" type="" amount="55.48" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-10-11" Tm="23:22" type="Std" amount="0.70" />
+<BOLUS Dt="2015-10-11" Tm="23:06" type="Std" amount="2.00" cmd="2" />
+<BASAL Dt="2015-10-11" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-11" Tm="22:44" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-10-11" Tm="21:08" type="Std" amount="1.20" cmd="2" />
+<BASAL Dt="2015-10-11" Tm="21:07" cbrf="0.70" profile="4" remark="TBR End (cancelled)" />
+<BASAL Dt="2015-10-11" Tm="21:00" cbrf="0.00" profile="4" TBRdec="  0%" cmd="2" remark="dur 00:07 h" />
+<BASAL Dt="2015-10-11" Tm="21:00" cbrf="0.70" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-11" Tm="20:35" cbrf="0.00" profile="4" TBRdec="  0%" cmd="2" remark="dur 00:25 h" />
+<BOLUS Dt="2015-10-11" Tm="19:06" type="Std" amount="16.40" cmd="1" />
+<BOLUS Dt="2015-10-11" Tm="16:03" type="Std" amount="2.20" cmd="2" />
+<BASAL Dt="2015-10-11" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-11" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-11" Tm="14:15" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-10-11" Tm="13:45" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-10-11" Tm="13:09" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-10-11" Tm="12:32" type="Std" amount="1.70" cmd="2" />
+<BASAL Dt="2015-10-11" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-11" Tm="11:42" type="Std" amount="0.80" cmd="2" />
+<BASAL Dt="2015-10-11" Tm="11:35" cbrf="1.20" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-11" Tm="09:35" cbrf="0.00" profile="4" TBRdec="  0%" cmd="2" remark="dur 02:00 h" />
+<BOLUS Dt="2015-10-11" Tm="07:42" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-10-11" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-11" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-11" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-11" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-11" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-10" Tm="" type="" amount="22.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-10" Tm="" type="" amount="41.33" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-10" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-10" Tm="22:40" type="Std" amount="0.90" cmd="1" />
+<BOLUS Dt="2015-10-10" Tm="17:06" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-10-10" Tm="16:33" type="Std" amount="5.50" cmd="1" />
+<BASAL Dt="2015-10-10" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-10" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-10" Tm="14:32" type="Std" amount="2.40" cmd="2" />
+<BASAL Dt="2015-10-10" Tm="14:14" cbrf="1.00" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-10" Tm="13:14" cbrf="0.50" profile="4" TBRdec=" 50%" cmd="2" remark="dur 01:00 h" />
+<BASAL Dt="2015-10-10" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-10" Tm="10:48" type="Std" amount="3.10" cmd="1" />
+<BOLUS Dt="2015-10-10" Tm="09:35" type="Std" amount="2.50" />
+<BOLUS Dt="2015-10-10" Tm="09:26" type="Std" amount="2.00" />
+<BASAL Dt="2015-10-10" Tm="09:20" cbrf="1.20" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-10" Tm="08:20" cbrf="0.00" profile="4" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2015-10-10" Tm="08:17" cbrf="1.20" profile="4" remark="TBR End" />
+<BASAL Dt="2015-10-10" Tm="07:32" cbrf="0.24" profile="4" TBRdec=" 20%" remark="dur 00:45 h" />
+<BASAL Dt="2015-10-10" Tm="07:00" cbrf="1.20" profile="4" />
+<BASAL Dt="2015-10-10" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-10" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-10" Tm="04:00" cbrf="0.90" profile="4" />
+<BOLUS Dt="2015-10-10" Tm="02:11" type="Std" amount="3.60" cmd="1" />
+<BASAL Dt="2015-10-10" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-09" Tm="" type="" amount="46.30" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-09" Tm="" type="" amount="67.99" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-10-09" Tm="23:16" type="Std" amount="0.60" />
+<BASAL Dt="2015-10-09" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-09" Tm="21:22" type="Std" amount="1.10" />
+<BOLUS Dt="2015-10-09" Tm="20:23" type="Std" amount="1.70" />
+<BOLUS Dt="2015-10-09" Tm="19:49" type="Std" amount="1.90" />
+<BOLUS Dt="2015-10-09" Tm="19:22" type="Std" amount="2.70" />
+<BASAL Dt="2015-10-09" Tm="17:50" cbrf="0.70" profile="4" remark="Run" />
+<EVENT Dt="2015-10-09" Tm="17:50" shortinfo="9.10 IU" description="prime infusion set" />
+<EVENT Dt="2015-10-09" Tm="17:47" description="cartridge changed" />
+<BASAL Dt="2015-10-09" Tm="17:45" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-10-09" Tm="17:45" shortinfo="E1" description="cartridge empty" />
+<BOLUS Dt="2015-10-09" Tm="16:00" type="Std" amount="3.00" />
+<BASAL Dt="2015-10-09" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-09" Tm="15:00" cbrf="0.85" profile="4" />
+<BASAL Dt="2015-10-09" Tm="12:00" cbrf="1.00" profile="4" />
+<BOLUS Dt="2015-10-09" Tm="11:56" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-10-09" Tm="11:29" type="Std" amount="13.80" cmd="1" />
+<EVENT Dt="2015-10-09" Tm="11:29" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-10-09" Tm="08:49" type="Std" amount="7.70" cmd="1" />
+<BOLUS Dt="2015-10-09" Tm="07:35" type="Std" amount="5.60" cmd="1" />
+<BASAL Dt="2015-10-09" Tm="07:00" cbrf="1.20" profile="4" />
+<BOLUS Dt="2015-10-09" Tm="06:21" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-10-09" Tm="06:21" type="Std" amount="0.90" cmd="2" />
+<BOLUS Dt="2015-10-09" Tm="06:02" type="Std" amount="4.30" cmd="1" />
+<BASAL Dt="2015-10-09" Tm="06:00" cbrf="1.10" profile="4" />
+<BASAL Dt="2015-10-09" Tm="05:00" cbrf="1.00" profile="4" />
+<BASAL Dt="2015-10-09" Tm="04:00" cbrf="0.90" profile="4" />
+<BASAL Dt="2015-10-09" Tm="00:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-08" Tm="" type="" amount="30.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-08" Tm="" type="" amount="53.46" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-10-08" Tm="23:32" type="Std" amount="0.80" cmd="2" />
+<BASAL Dt="2015-10-08" Tm="23:00" cbrf="0.80" profile="4" />
+<BOLUS Dt="2015-10-08" Tm="21:27" type="Mul" cmd="1" amount="8.40" remark="6.10 / 2.30  1:30 h" />
+<BASAL Dt="2015-10-08" Tm="19:51" cbrf="0.70" profile="4" remark="TBR End" />
+<BOLUS Dt="2015-10-08" Tm="19:23" type="Std" amount="1.50" />
+<BASAL Dt="2015-10-08" Tm="18:51" cbrf="1.75" profile="4" TBRinc="250%" remark="dur 01:00 h" />
+<BOLUS Dt="2015-10-08" Tm="17:06" type="Std" amount="2.00" />
+<BASAL Dt="2015-10-08" Tm="16:53" cbrf="0.70" profile="4" remark="Run" />
+<BASAL Dt="2015-10-08" Tm="16:50" cbrf="0.00" remark="Stop" />
+<BOLUS Dt="2015-10-08" Tm="16:09" type="Std" amount="2.50" />
+<BASAL Dt="2015-10-08" Tm="16:00" cbrf="0.70" profile="4" />
+<BASAL Dt="2015-10-08" Tm="15:00" cbrf="0.85" profile="4" />
+<BOLUS Dt="2015-10-08" Tm="14:12" type="Std" amount="1.50" />
+<BOLUS Dt="2015-10-08" Tm="14:02" type="Std" amount="1.80" />
+<BOLUS Dt="2015-10-08" Tm="13:40" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-10-08" Tm="13:20" cbrf="1.00" profile="4" remark="5 - 4" />
+<BASAL Dt="2015-10-08" Tm="11:00" cbrf="1.00" profile="5" />
+<BASAL Dt="2015-10-08" Tm="10:00" cbrf="1.20" profile="5" />
+<BOLUS Dt="2015-10-08" Tm="07:55" type="Std" amount="6.30" cmd="1" />
+<BASAL Dt="2015-10-08" Tm="07:00" cbrf="1.40" profile="5" />
+<BOLUS Dt="2015-10-08" Tm="06:54" type="Std" amount="2.70" cmd="1" />
+<BASAL Dt="2015-10-08" Tm="06:00" cbrf="1.25" profile="5" />
+<BASAL Dt="2015-10-08" Tm="05:00" cbrf="1.10" profile="5" />
+<BASAL Dt="2015-10-08" Tm="04:00" cbrf="0.95" profile="5" />
+<BASAL Dt="2015-10-08" Tm="00:00" cbrf="0.80" profile="5" />
+<BOLUS Dt="2015-10-07" Tm="" type="" amount="23.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-07" Tm="" type="" amount="45.43" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-07" Tm="23:00" cbrf="0.80" profile="5" />
+<BOLUS Dt="2015-10-07" Tm="21:27" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-10-07" Tm="19:36" cbrf="0.70" profile="5" remark="TBR End" />
+<BASAL Dt="2015-10-07" Tm="18:51" cbrf="0.00" profile="5" TBRdec="  0%" cmd="2" remark="dur 00:45 h" />
+<BOLUS Dt="2015-10-07" Tm="18:16" type="Std" amount="1.70" cmd="2" />
+<BOLUS Dt="2015-10-07" Tm="16:59" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2015-10-07" Tm="16:00" cbrf="0.70" profile="5" />
+<BASAL Dt="2015-10-07" Tm="15:00" cbrf="0.85" profile="5" />
+<BOLUS Dt="2015-10-07" Tm="14:48" type="Std" amount="1.10" cmd="2" />
+<BOLUS Dt="2015-10-07" Tm="12:41" type="Std" amount="3.20" cmd="1" />
+<BASAL Dt="2015-10-07" Tm="11:00" cbrf="1.00" profile="5" />
+<BASAL Dt="2015-10-07" Tm="10:00" cbrf="1.20" profile="5" />
+<BOLUS Dt="2015-10-07" Tm="07:41" type="Std" amount="10.00" cmd="1" />
+<BOLUS Dt="2015-10-07" Tm="07:00" type="Std" amount="3.00" cmd="1" />
+<BASAL Dt="2015-10-07" Tm="07:00" cbrf="1.40" profile="5" />
+<BASAL Dt="2015-10-07" Tm="06:00" cbrf="1.25" profile="5" />
+<BASAL Dt="2015-10-07" Tm="05:00" cbrf="1.10" profile="5" />
+<BASAL Dt="2015-10-07" Tm="04:00" cbrf="0.95" profile="5" />
+<BASAL Dt="2015-10-07" Tm="00:00" cbrf="0.80" profile="5" />
+<BOLUS Dt="2015-10-06" Tm="" type="" amount="28.20" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-06" Tm="" type="" amount="50.13" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-10-06" Tm="23:20" type="Std" amount="1.80" />
+<BASAL Dt="2015-10-06" Tm="23:00" cbrf="0.80" profile="5" />
+<BOLUS Dt="2015-10-06" Tm="22:43" type="Std" amount="4.00" />
+<BOLUS Dt="2015-10-06" Tm="21:17" type="Std" amount="2.00" />
+<BASAL Dt="2015-10-06" Tm="16:00" cbrf="0.70" profile="5" />
+<BOLUS Dt="2015-10-06" Tm="15:50" type="Std" amount="1.50" />
+<BASAL Dt="2015-10-06" Tm="15:00" cbrf="0.85" profile="5" />
+<BOLUS Dt="2015-10-06" Tm="13:27" type="Std" amount="3.30" />
+<BASAL Dt="2015-10-06" Tm="11:00" cbrf="1.00" profile="5" />
+<BOLUS Dt="2015-10-06" Tm="10:32" type="Std" amount="2.00" />
+<BOLUS Dt="2015-10-06" Tm="10:22" type="Std" amount="2.00" />
+<BASAL Dt="2015-10-06" Tm="10:00" cbrf="1.20" profile="5" />
+<BOLUS Dt="2015-10-06" Tm="08:12" type="Std" amount="8.60" />
+<BOLUS Dt="2015-10-06" Tm="07:09" type="Std" amount="1.00" />
+<BASAL Dt="2015-10-06" Tm="07:00" cbrf="1.40" profile="5" />
+<BASAL Dt="2015-10-06" Tm="06:00" cbrf="1.25" profile="5" />
+<BASAL Dt="2015-10-06" Tm="05:00" cbrf="1.10" profile="5" />
+<BOLUS Dt="2015-10-06" Tm="04:33" type="Std" amount="2.00" cmd="2" />
+<BASAL Dt="2015-10-06" Tm="04:28" cbrf="0.95" profile="5" remark="1 - 5" />
+<BASAL Dt="2015-10-06" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-05" Tm="" type="" amount="23.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-05" Tm="" type="" amount="47.64" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-05" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-05" Tm="21:08" type="Std" amount="0.40" cmd="2" />
+<BOLUS Dt="2015-10-05" Tm="20:17" type="Std" amount="1.40" cmd="1" />
+<BOLUS Dt="2015-10-05" Tm="18:06" type="Std" amount="1.70" cmd="2" />
+<BOLUS Dt="2015-10-05" Tm="15:39" type="Std" amount="1.30" cmd="2" />
+<BOLUS Dt="2015-10-05" Tm="15:38" type="Std" amount="1.20" cmd="2" />
+<BOLUS Dt="2015-10-05" Tm="15:06" type="Std" amount="1.90" cmd="2" />
+<BASAL Dt="2015-10-05" Tm="14:50" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-05" Tm="14:48" cbrf="0.00" cmd="2" remark="Stop" />
+<BASAL Dt="2015-10-05" Tm="14:48" cbrf="0.65" profile="1" remark="TBR End (cancelled)" />
+<BOLUS Dt="2015-10-05" Tm="14:46" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-10-05" Tm="14:20" cbrf="0.98" profile="1" TBRinc="150%" cmd="2" remark="dur 00:28 h" />
+<BASAL Dt="2015-10-05" Tm="13:26" cbrf="0.65" profile="1" remark="TBR End" />
+<BOLUS Dt="2015-10-05" Tm="12:07" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-10-05" Tm="11:00" cbrf="1.63" profile="1" TBRinc="250%" />
+<BOLUS Dt="2015-10-05" Tm="10:49" type="Std" amount="3.40" cmd="1" />
+<BASAL Dt="2015-10-05" Tm="10:00" cbrf="1.85" profile="1" TBRinc="250%" />
+<BASAL Dt="2015-10-05" Tm="09:00" cbrf="1.88" profile="1" TBRinc="250%" />
+<BOLUS Dt="2015-10-05" Tm="08:54" type="Std" amount="0.80" cmd="2" />
+<BASAL Dt="2015-10-05" Tm="07:26" cbrf="2.25" profile="1" TBRinc="250%" cmd="2" remark="dur 06:00 h" />
+<BASAL Dt="2015-10-05" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-10-05" Tm="06:57" type="Std" amount="2.30" cmd="1" />
+<BOLUS Dt="2015-10-05" Tm="05:50" type="Std" amount="3.50" cmd="1" />
+<BASAL Dt="2015-10-05" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-10-05" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-04" Tm="" type="" amount="31.20" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-04" Tm="" type="" amount="47.08" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-04" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-04" Tm="22:55" type="Std" amount="0.70" cmd="2" />
+<BASAL Dt="2015-10-04" Tm="21:50" cbrf="0.65" profile="1" remark="TBR End" />
+<BOLUS Dt="2015-10-04" Tm="19:52" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-10-04" Tm="19:50" cbrf="1.30" profile="1" TBRinc="200%" cmd="2" remark="dur 02:00 h" />
+<BASAL Dt="2015-10-04" Tm="19:32" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-04" Tm="18:02" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:30 h" />
+<BOLUS Dt="2015-10-04" Tm="18:02" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-10-04" Tm="17:13" type="Std" amount="9.50" cmd="1" />
+<BOLUS Dt="2015-10-04" Tm="15:57" type="Std" amount="1.50" cmd="2" />
+<BASAL Dt="2015-10-04" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-04" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-10-04" Tm="09:19" type="Std" amount="11.50" cmd="1" />
+<BASAL Dt="2015-10-04" Tm="09:05" cbrf="0.75" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-04" Tm="09:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2015-10-04" Tm="07:35" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:30 h" />
+<BASAL Dt="2015-10-04" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-04" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-10-04" Tm="04:57" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-10-04" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-03" Tm="" type="" amount="27.10" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-03" Tm="" type="" amount="43.16" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-03" Tm="23:00" cbrf="0.70" profile="1" />
+<BASAL Dt="2015-10-03" Tm="21:11" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-10-03" Tm="21:11" shortinfo="13.80 IU" description="prime infusion set" />
+<EVENT Dt="2015-10-03" Tm="20:55" description="cartridge changed" />
+<BASAL Dt="2015-10-03" Tm="20:54" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-10-03" Tm="20:54" shortinfo="E1" description="cartridge empty" />
+<BOLUS Dt="2015-10-03" Tm="20:08" type="Std" amount="5.50" cmd="1" />
+<BOLUS Dt="2015-10-03" Tm="14:48" type="Std" amount="2.80" cmd="1" />
+<BASAL Dt="2015-10-03" Tm="13:05" cbrf="0.65" profile="1" remark="TBR End" />
+<BOLUS Dt="2015-10-03" Tm="12:46" type="Std" amount="3.50" cmd="1" />
+<BASAL Dt="2015-10-03" Tm="12:05" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2015-10-03" Tm="12:04" type="Std" amount="1.20" />
+<BASAL Dt="2015-10-03" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-10-03" Tm="10:53" type="Std" amount="1.40" />
+<EVENT Dt="2015-10-03" Tm="10:52" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-10-03" Tm="10:52" type="Std" amount="1.30" cmd="1" />
+<BASAL Dt="2015-10-03" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-03" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-03" Tm="08:31" type="Std" amount="9.30" cmd="1" />
+<BASAL Dt="2015-10-03" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-03" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-10-03" Tm="04:26" type="Std" amount="2.10" cmd="1" />
+<BASAL Dt="2015-10-03" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-02" Tm="" type="" amount="22.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-02" Tm="" type="" amount="33.96" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-02" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-02" Tm="22:32" type="Std" amount="1.40" cmd="1" />
+<BOLUS Dt="2015-10-02" Tm="15:11" type="Std" amount="0.20" cmd="1" />
+<BOLUS Dt="2015-10-02" Tm="13:30" type="Std" amount="8.10" cmd="1" />
+<BOLUS Dt="2015-10-02" Tm="11:07" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-10-02" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-02" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-10-02" Tm="09:35" type="Std" amount="10.70" cmd="1" />
+<BASAL Dt="2015-10-02" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-10-02" Tm="08:50" type="Std" amount="1.40" cmd="1" />
+<BASAL Dt="2015-10-02" Tm="07:54" cbrf="0.90" profile="1" remark="Run" />
+<BASAL Dt="2015-10-02" Tm="07:53" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-10-02" Tm="07:45" cbrf="0.90" profile="1" remark="Run" />
+<BASAL Dt="2015-10-02" Tm="07:30" cbrf="0.00" remark="Stop" />
+<BASAL Dt="2015-10-02" Tm="07:26" cbrf="0.90" profile="1" remark="time / date set (time shift back)" Tsb="1" TsbDiffMins="598" />
+<BOLUS Dt="2015-10-01" Tm="" type="" amount="31.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-10-01" Tm="" type="" amount="47.84" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-10-01" Tm="23:59" cbrf="0.70" profile="1" remark="time / date corrected" Virtual="1" />
+<BOLUS Dt="2015-10-01" Tm="23:13" type="Std" amount="5.00" cmd="1" />
+<BASAL Dt="2015-10-01" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-10-01" Tm="20:40" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-10-01" Tm="18:57" type="Std" amount="5.40" cmd="1" />
+<BOLUS Dt="2015-10-01" Tm="18:15" type="Std" amount="1.80" cmd="2" />
+<BOLUS Dt="2015-10-01" Tm="16:04" type="Std" amount="5.40" cmd="1" />
+<BOLUS Dt="2015-10-01" Tm="11:46" type="Std" amount="1.50" cmd="1" />
+<BASAL Dt="2015-10-01" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-01" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-10-01" Tm="09:28" type="Std" amount="9.00" cmd="1" />
+<BASAL Dt="2015-10-01" Tm="09:26" cbrf="0.75" profile="1" remark="TBR End" />
+<BASAL Dt="2015-10-01" Tm="09:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2015-10-01" Tm="08:26" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BASAL Dt="2015-10-01" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-01" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-10-01" Tm="02:06" type="Std" amount="1.70" cmd="1" />
+<BASAL Dt="2015-10-01" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-30" Tm="" type="" amount="28.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-30" Tm="" type="" amount="44.19" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-30" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-30" Tm="21:15" type="Std" amount="7.70" cmd="1" />
+<BOLUS Dt="2015-09-30" Tm="17:21" type="Std" amount="3.80" cmd="1" />
+<BOLUS Dt="2015-09-30" Tm="12:15" type="Std" amount="7.80" cmd="1" />
+<BOLUS Dt="2015-09-30" Tm="11:40" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-09-30" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-30" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-09-30" Tm="09:24" type="Std" amount="7.70" cmd="1" />
+<BASAL Dt="2015-09-30" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-09-30" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-30" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-30" Tm="03:18" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-30" Tm="00:48" cbrf="0.42" profile="1" TBRdec=" 60%" remark="dur 02:30 h" />
+<BASAL Dt="2015-09-30" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-29" Tm="" type="" amount="20.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-29" Tm="" type="" amount="40.24" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-29" Tm="23:00" cbrf="0.70" profile="1" />
+<BASAL Dt="2015-09-29" Tm="20:31" cbrf="0.65" profile="1" remark="2 - 1" />
+<BOLUS Dt="2015-09-29" Tm="20:08" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-09-29" Tm="19:23" type="Std" amount="6.30" cmd="1" />
+<BOLUS Dt="2015-09-29" Tm="13:08" type="Mul" cmd="1" amount="8.90" remark="6.50 / 2.40  1:28 h" />
+<BASAL Dt="2015-09-29" Tm="11:00" cbrf="0.78" profile="2" />
+<BASAL Dt="2015-09-29" Tm="10:00" cbrf="0.88" profile="2" />
+<BOLUS Dt="2015-09-29" Tm="09:28" type="Std" amount="2.80" cmd="1" />
+<BASAL Dt="2015-09-29" Tm="09:00" cbrf="0.90" profile="2" />
+<BASAL Dt="2015-09-29" Tm="07:00" cbrf="1.05" profile="2" />
+<BASAL Dt="2015-09-29" Tm="05:00" cbrf="0.96" profile="2" />
+<BASAL Dt="2015-09-29" Tm="00:00" cbrf="0.84" profile="2" />
+<BOLUS Dt="2015-09-28" Tm="" type="" amount="29.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-28" Tm="" type="" amount="50.62" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-09-28" Tm="23:06" type="Std" amount="0.70" cmd="1" />
+<BASAL Dt="2015-09-28" Tm="23:00" cbrf="0.84" profile="2" />
+<BOLUS Dt="2015-09-28" Tm="21:23" type="Std" amount="5.20" cmd="1" />
+<BOLUS Dt="2015-09-28" Tm="20:48" type="Std" amount="1.70" cmd="2" />
+<BASAL Dt="2015-09-28" Tm="20:48" cbrf="0.78" profile="2" remark="3 - 2" />
+<BASAL Dt="2015-09-28" Tm="13:20" cbrf="0.97" profile="3" remark="2 - 3" />
+<BOLUS Dt="2015-09-28" Tm="12:42" type="Std" amount="11.40" cmd="1" />
+<BASAL Dt="2015-09-28" Tm="11:00" cbrf="0.78" profile="2" />
+<BASAL Dt="2015-09-28" Tm="10:00" cbrf="0.88" profile="2" />
+<BASAL Dt="2015-09-28" Tm="09:00" cbrf="0.90" profile="2" />
+<BOLUS Dt="2015-09-28" Tm="07:34" type="Std" amount="10.00" cmd="1" />
+<BASAL Dt="2015-09-28" Tm="07:00" cbrf="1.05" profile="2" />
+<BASAL Dt="2015-09-28" Tm="05:00" cbrf="0.96" profile="2" />
+<BASAL Dt="2015-09-28" Tm="00:00" cbrf="0.84" profile="2" />
+<BOLUS Dt="2015-09-27" Tm="" type="" amount="30.30" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-27" Tm="" type="" amount="47.98" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-27" Tm="23:00" cbrf="0.84" profile="2" />
+<BOLUS Dt="2015-09-27" Tm="22:33" type="Std" amount="5.10" cmd="1" />
+<BASAL Dt="2015-09-27" Tm="19:35" cbrf="0.78" profile="2" remark="TBR End" />
+<BASAL Dt="2015-09-27" Tm="18:05" cbrf="0.00" profile="2" TBRdec="  0%" cmd="2" remark="dur 01:30 h" />
+<BOLUS Dt="2015-09-27" Tm="18:04" type="Std" amount="8.00" cmd="1" />
+<BOLUS Dt="2015-09-27" Tm="14:07" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-09-27" Tm="13:09" type="Std" amount="2.20" cmd="1" />
+<BASAL Dt="2015-09-27" Tm="11:00" cbrf="0.78" profile="2" />
+<BASAL Dt="2015-09-27" Tm="10:00" cbrf="0.88" profile="2" />
+<BASAL Dt="2015-09-27" Tm="09:30" cbrf="0.90" profile="2" remark="Run" />
+<EVENT Dt="2015-09-27" Tm="09:29" shortinfo="E8" description="power interrupt" />
+<BASAL Dt="2015-09-27" Tm="09:29" cbrf="0.00" remark="power up" />
+<BASAL Dt="2015-09-27" Tm="09:28" cbrf="0.00" remark="power down" />
+<BASAL Dt="2015-09-27" Tm="09:28" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-09-27" Tm="09:28" type="Std" amount="5.20" cmd="2" />
+<BASAL Dt="2015-09-27" Tm="09:27" cbrf="0.90" profile="2" cmd="2" remark="Run" />
+<EVENT Dt="2015-09-27" Tm="09:27" shortinfo="1.30 IU" description="prime infusion set" />
+<EVENT Dt="2015-09-27" Tm="09:23" description="cartridge changed" />
+<BOLUS Dt="2015-09-27" Tm="09:23" type="Std" amount="0.80" cmd="1" />
+<EVENT Dt="2015-09-27" Tm="09:23" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-09-27" Tm="09:23" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-09-27" Tm="09:23" shortinfo="E1" description="cartridge empty" />
+<BASAL Dt="2015-09-27" Tm="09:00" cbrf="0.90" profile="2" />
+<BASAL Dt="2015-09-27" Tm="08:37" cbrf="1.05" profile="2" remark="1 - 2" />
+<BOLUS Dt="2015-09-27" Tm="08:26" type="Std" amount="5.00" cmd="1" />
+<BASAL Dt="2015-09-27" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-27" Tm="06:15" cbrf="0.80" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-09-27" Tm="06:15" cbrf="0.00" cmd="2" remark="Stop" />
+<EVENT Dt="2015-09-27" Tm="06:15" shortinfo="E4" description="occlusion" />
+<BASAL Dt="2015-09-27" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-27" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-26" Tm="" type="" amount="24.80" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-26" Tm="" type="" amount="40.69" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-26" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-26" Tm="22:32" type="Std" amount="1.80" cmd="1" />
+<BOLUS Dt="2015-09-26" Tm="19:18" type="Std" amount="8.50" cmd="1" />
+<EVENT Dt="2015-09-26" Tm="19:18" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-09-26" Tm="15:27" type="Std" amount="6.00" cmd="1" />
+<BOLUS Dt="2015-09-26" Tm="15:02" type="Std" amount="0.90" cmd="2" />
+<BOLUS Dt="2015-09-26" Tm="13:06" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-09-26" Tm="12:47" cbrf="0.65" profile="1" remark="TBR End (cancelled)" />
+<BOLUS Dt="2015-09-26" Tm="12:46" type="Std" amount="0.60" cmd="1" />
+<BASAL Dt="2015-09-26" Tm="11:15" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:32 h" />
+<BASAL Dt="2015-09-26" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-26" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-09-26" Tm="09:47" type="Std" amount="4.50" cmd="1" />
+<BOLUS Dt="2015-09-26" Tm="09:21" type="Std" amount="1.50" cmd="1" />
+<BASAL Dt="2015-09-26" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-09-26" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-26" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-26" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-25" Tm="" type="" amount="23.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-25" Tm="" type="" amount="40.49" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-09-25" Tm="23:19" type="Std" amount="2.00" cmd="1" />
+<BASAL Dt="2015-09-25" Tm="23:00" cbrf="0.70" profile="1" />
+<EVENT Dt="2015-09-25" Tm="18:51" shortinfo="W2" description="battery low" />
+<BOLUS Dt="2015-09-25" Tm="17:32" type="Mul" cmd="1" amount="3.20" remark="1.70 / 1.50  1:28 h" />
+<BOLUS Dt="2015-09-25" Tm="14:24" type="Mul" cmd="1" amount="7.00" remark="5.20 / 1.80  1:30 h" />
+<BASAL Dt="2015-09-25" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-25" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-09-25" Tm="09:19" type="Std" amount="7.40" cmd="1" />
+<BASAL Dt="2015-09-25" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-25" Tm="08:39" type="Std" amount="1.50" cmd="1" />
+<BASAL Dt="2015-09-25" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-25" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-09-25" Tm="00:45" type="Std" amount="2.50" cmd="2" />
+<BASAL Dt="2015-09-25" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-24" Tm="" type="" amount="17.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-24" Tm="" type="" amount="34.79" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-24" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-24" Tm="15:43" type="Std" amount="2.40" cmd="1" />
+<BOLUS Dt="2015-09-24" Tm="13:57" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-09-24" Tm="11:35" type="Std" amount="1.50" cmd="1" />
+<BASAL Dt="2015-09-24" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-24" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-24" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-24" Tm="08:11" type="Std" amount="7.50" cmd="1" />
+<BOLUS Dt="2015-09-24" Tm="07:50" type="Std" amount="1.50" />
+<BASAL Dt="2015-09-24" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-24" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-24" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-23" Tm="" type="" amount="27.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-23" Tm="" type="" amount="44.79" remark="Bolus+Basal Total"/>
+<BOLUS Dt="2015-09-23" Tm="23:39" type="Std" amount="1.10" cmd="1" />
+<BASAL Dt="2015-09-23" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-23" Tm="21:10" type="Std" amount="2.20" cmd="1" />
+<BOLUS Dt="2015-09-23" Tm="16:22" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-09-23" Tm="12:18" type="Std" amount="1.30" />
+<BOLUS Dt="2015-09-23" Tm="11:27" type="Mul" cmd="1" amount="8.80" remark="6.50 / 2.30  1:00 h" />
+<BASAL Dt="2015-09-23" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-23" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-23" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-23" Tm="08:31" type="Std" amount="7.00" cmd="1" />
+<BOLUS Dt="2015-09-23" Tm="08:27" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-09-23" Tm="07:43" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-09-23" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-23" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-23" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-22" Tm="" type="" amount="23.50" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-22" Tm="" type="" amount="39.86" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-22" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-22" Tm="21:58" type="Std" amount="3.50" cmd="1" />
+<BOLUS Dt="2015-09-22" Tm="20:26" type="Std" amount="1.50" cmd="1" />
+<BOLUS Dt="2015-09-22" Tm="17:10" type="Std" amount="2.20" cmd="1" />
+<BOLUS Dt="2015-09-22" Tm="12:44" type="Std" amount="7.10" cmd="1" />
+<BOLUS Dt="2015-09-22" Tm="11:40" type="Std" amount="0.40" cmd="1" />
+<BASAL Dt="2015-09-22" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-22" Tm="10:47" cbrf="0.74" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-09-22" Tm="10:46" cbrf="0.00" cmd="2" remark="Stop" />
+<BASAL Dt="2015-09-22" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-22" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-22" Tm="08:51" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-09-22" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-09-22" Tm="06:59" type="Std" amount="1.30" cmd="1" />
+<BASAL Dt="2015-09-22" Tm="06:16" cbrf="0.80" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-22" Tm="05:00" cbrf="0.64" profile="1" TBRdec=" 80%" />
+<BASAL Dt="2015-09-22" Tm="02:46" cbrf="0.56" profile="1" TBRdec=" 80%" cmd="2" remark="dur 03:30 h" />
+<BASAL Dt="2015-09-22" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-21" Tm="" type="" amount="30.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-21" Tm="" type="" amount="46.57" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-21" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-21" Tm="20:39" type="Std" amount="5.70" cmd="1" />
+<BOLUS Dt="2015-09-21" Tm="17:13" type="Std" amount="3.50" cmd="1" />
+<BOLUS Dt="2015-09-21" Tm="15:59" type="Std" amount="2.90" cmd="1" />
+<BOLUS Dt="2015-09-21" Tm="13:09" type="Std" amount="6.50" cmd="1" />
+<BASAL Dt="2015-09-21" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-21" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-21" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-21" Tm="08:05" type="Std" amount="9.00" cmd="1" />
+<BASAL Dt="2015-09-21" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-09-21" Tm="05:52" type="Std" amount="3.30" cmd="1" />
+<BASAL Dt="2015-09-21" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-21" Tm="03:41" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-21" Tm="00:11" cbrf="0.35" profile="1" TBRdec=" 50%" cmd="2" remark="dur 03:30 h" />
+<BASAL Dt="2015-09-21" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-20" Tm="" type="" amount="30.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-20" Tm="" type="" amount="46.32" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-20" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-20" Tm="21:59" type="Std" amount="3.70" cmd="1" />
+<BOLUS Dt="2015-09-20" Tm="21:13" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2015-09-20" Tm="21:13" cbrf="0.65" profile="1" remark="TBR End (cancelled)" />
+<BOLUS Dt="2015-09-20" Tm="20:14" type="Std" amount="0.70" cmd="2" />
+<BASAL Dt="2015-09-20" Tm="19:25" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:48 h" />
+<BOLUS Dt="2015-09-20" Tm="17:52" type="Std" amount="5.70" cmd="1" />
+<BOLUS Dt="2015-09-20" Tm="15:09" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-09-20" Tm="13:01" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-09-20" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-09-20" Tm="10:06" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-09-20" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-20" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-20" Tm="08:54" type="Std" amount="4.00" cmd="1" />
+<BASAL Dt="2015-09-20" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-20" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-20" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-19" Tm="" type="" amount="29.90" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-19" Tm="" type="" amount="45.76" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-19" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-19" Tm="21:28" type="Std" amount="2.20" cmd="2" />
+<BASAL Dt="2015-09-19" Tm="21:28" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-09-19" Tm="21:28" shortinfo="4.60 IU" description="prime infusion set" />
+<EVENT Dt="2015-09-19" Tm="21:25" description="cartridge changed" />
+<BOLUS Dt="2015-09-19" Tm="21:23" type="Std" amount="0.80" cmd="1" />
+<EVENT Dt="2015-09-19" Tm="21:23" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-09-19" Tm="21:23" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-09-19" Tm="21:23" shortinfo="E1" description="cartridge empty" />
+<BOLUS Dt="2015-09-19" Tm="18:38" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-09-19" Tm="17:02" type="Std" amount="6.10" cmd="1" />
+<BOLUS Dt="2015-09-19" Tm="16:03" type="Std" amount="3.50" cmd="2" />
+<BOLUS Dt="2015-09-19" Tm="13:34" type="Std" amount="2.30" cmd="1" />
+<EVENT Dt="2015-09-19" Tm="13:34" shortinfo="W1" description="cartridge low" />
+<BASAL Dt="2015-09-19" Tm="12:35" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-19" Tm="11:05" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:30 h" />
+<BASAL Dt="2015-09-19" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-19" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-09-19" Tm="09:15" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-09-19" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-09-19" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-09-19" Tm="06:04" type="Std" amount="3.50" cmd="1" />
+<BASAL Dt="2015-09-19" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-19" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-18" Tm="" type="" amount="38.70" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-18" Tm="" type="" amount="54.60" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-18" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-18" Tm="21:45" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-09-18" Tm="21:30" type="Std" amount="3.00" cmd="2" />
+<BOLUS Dt="2015-09-18" Tm="21:20" type="Std" amount="1.80" cmd="2" />
+<BOLUS Dt="2015-09-18" Tm="20:28" type="Std" amount="2.00" cmd="1" />
+<BOLUS Dt="2015-09-18" Tm="20:15" type="Std" amount="3.00" cmd="2" />
+<BOLUS Dt="2015-09-18" Tm="19:26" type="Std" amount="6.30" cmd="1" />
+<BASAL Dt="2015-09-18" Tm="19:05" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-18" Tm="18:05" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:00 h" />
+<BOLUS Dt="2015-09-18" Tm="15:06" type="Std" amount="1.40" cmd="1" />
+<BOLUS Dt="2015-09-18" Tm="11:38" type="Std" amount="7.40" cmd="1" />
+<BASAL Dt="2015-09-18" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-18" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-18" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-18" Tm="08:48" type="Std" amount="7.00" cmd="1" />
+<BOLUS Dt="2015-09-18" Tm="08:03" type="Std" amount="2.00" cmd="1" />
+<BASAL Dt="2015-09-18" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-18" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-09-18" Tm="04:13" type="Std" amount="2.80" />
+<BASAL Dt="2015-09-18" Tm="01:38" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-18" Tm="00:00" cbrf="0.49" profile="1" TBRdec=" 70%" />
+<BOLUS Dt="2015-09-17" Tm="" type="" amount="32.10" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-17" Tm="" type="" amount="48.59" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-17" Tm="23:38" cbrf="0.49" profile="1" TBRdec=" 70%" remark="dur 02:00 h" />
+<BASAL Dt="2015-09-17" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-17" Tm="20:27" type="Std" amount="2.00" cmd="2" />
+<BOLUS Dt="2015-09-17" Tm="19:50" type="Std" amount="3.00" cmd="1" />
+<BASAL Dt="2015-09-17" Tm="18:01" cbrf="0.65" profile="1" remark="TBR End" />
+<BOLUS Dt="2015-09-17" Tm="18:00" type="Std" amount="1.70" cmd="2" />
+<BASAL Dt="2015-09-17" Tm="17:31" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:30 h" />
+<BOLUS Dt="2015-09-17" Tm="16:18" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-09-17" Tm="13:19" type="Std" amount="6.00" cmd="1" />
+<BOLUS Dt="2015-09-17" Tm="11:25" type="Std" amount="3.00" cmd="2" />
+<BASAL Dt="2015-09-17" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-17" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-09-17" Tm="09:23" type="Std" amount="7.50" cmd="1" />
+<BOLUS Dt="2015-09-17" Tm="09:20" type="Std" amount="1.00" cmd="2" />
+<BASAL Dt="2015-09-17" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-09-17" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-09-17" Tm="06:43" type="Std" amount="4.90" cmd="1" />
+<BASAL Dt="2015-09-17" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-17" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-16" Tm="" type="" amount="27.40" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-16" Tm="" type="" amount="43.62" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-16" Tm="23:47" cbrf="0.70" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-16" Tm="23:00" cbrf="0.35" profile="1" TBRdec=" 50%" />
+<BASAL Dt="2015-09-16" Tm="21:47" cbrf="0.33" profile="1" TBRdec=" 50%" cmd="2" remark="dur 02:00 h" />
+<BOLUS Dt="2015-09-16" Tm="20:48" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-09-16" Tm="18:41" type="Std" amount="6.00" cmd="1" />
+<BOLUS Dt="2015-09-16" Tm="16:15" type="Std" amount="2.00" cmd="1" />
+<BOLUS Dt="2015-09-16" Tm="16:07" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-09-16" Tm="12:10" type="Std" amount="3.60" cmd="1" />
+<BASAL Dt="2015-09-16" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-16" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-16" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-09-16" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-09-16" Tm="06:55" type="Std" amount="9.80" cmd="1" />
+<BASAL Dt="2015-09-16" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-16" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-15" Tm="" type="" amount="25.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-15" Tm="" type="" amount="41.89" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-15" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-15" Tm="20:00" type="Ext" cmd="1" amount="4.00" remark=" 0:30 h" />
+<BOLUS Dt="2015-09-15" Tm="16:21" type="Std" amount="5.00" cmd="1" />
+<BOLUS Dt="2015-09-15" Tm="12:29" type="Std" amount="3.90" cmd="1" />
+<BOLUS Dt="2015-09-15" Tm="12:12" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-09-15" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-15" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-15" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-09-15" Tm="07:00" cbrf="0.90" profile="1" />
+<BOLUS Dt="2015-09-15" Tm="06:50" type="Std" amount="9.60" cmd="1" />
+<BASAL Dt="2015-09-15" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-15" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-14" Tm="" type="" amount="30.60" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-14" Tm="" type="" amount="46.84" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-14" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-14" Tm="22:57" type="Std" amount="2.30" cmd="2" />
+<BOLUS Dt="2015-09-14" Tm="20:40" type="Std" amount="1.50" cmd="1" />
+<BASAL Dt="2015-09-14" Tm="20:36" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-14" Tm="19:36" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2015-09-14" Tm="18:26" type="Std" amount="2.00" cmd="1" />
+<BOLUS Dt="2015-09-14" Tm="17:51" type="Std" amount="2.70" cmd="2" />
+<BOLUS Dt="2015-09-14" Tm="14:44" type="Std" amount="3.50" cmd="2" />
+<BOLUS Dt="2015-09-14" Tm="11:27" type="Std" amount="7.20" cmd="1" />
+<BASAL Dt="2015-09-14" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-14" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-14" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-14" Tm="07:38" type="Std" amount="1.00" cmd="2" />
+<BOLUS Dt="2015-09-14" Tm="07:29" type="Std" amount="8.80" cmd="1" />
+<BASAL Dt="2015-09-14" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-14" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-09-14" Tm="00:08" type="Std" amount="1.60" cmd="1" />
+<BASAL Dt="2015-09-14" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-13" Tm="" type="" amount="32.10" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-13" Tm="" type="" amount="47.43" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-13" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-13" Tm="22:02" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-09-13" Tm="21:08" cbrf="0.65" profile="1" remark="TBR End (cancelled)" />
+<BOLUS Dt="2015-09-13" Tm="20:15" type="Std" amount="1.20" cmd="1" />
+<BASAL Dt="2015-09-13" Tm="18:47" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 02:21 h" />
+<BOLUS Dt="2015-09-13" Tm="18:46" type="Std" amount="1.60" cmd="2" />
+<BOLUS Dt="2015-09-13" Tm="18:12" type="Std" amount="5.50" cmd="1" />
+<BOLUS Dt="2015-09-13" Tm="15:22" type="Std" amount="4.00" cmd="1" />
+<BOLUS Dt="2015-09-13" Tm="13:34" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-09-13" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-09-13" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-09-13" Tm="09:42" type="Std" amount="4.40" cmd="2" />
+<BASAL Dt="2015-09-13" Tm="09:42" cbrf="0.75" profile="1" cmd="2" remark="Run" />
+<EVENT Dt="2015-09-13" Tm="09:41" shortinfo="6.00 IU" description="prime infusion set" />
+<EVENT Dt="2015-09-13" Tm="09:39" description="cartridge changed" />
+<BOLUS Dt="2015-09-13" Tm="09:39" type="Std" amount="3.10" cmd="1" />
+<EVENT Dt="2015-09-13" Tm="09:39" shortinfo="W8" description="bolus cancelled" />
+<BASAL Dt="2015-09-13" Tm="09:39" cbrf="0.00" remark="Stop" />
+<EVENT Dt="2015-09-13" Tm="09:39" shortinfo="E1" description="cartridge empty" />
+<BASAL Dt="2015-09-13" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-13" Tm="08:35" type="Std" amount="2.50" cmd="1" />
+<BASAL Dt="2015-09-13" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-13" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-09-13" Tm="03:21" type="Std" amount="2.80" />
+<BASAL Dt="2015-09-13" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-12" Tm="" type="" amount="24.10" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-12" Tm="" type="" amount="39.57" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-12" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-12" Tm="22:32" type="Std" amount="2.20" cmd="1" />
+<EVENT Dt="2015-09-12" Tm="21:00" shortinfo="W1" description="cartridge low" />
+<BOLUS Dt="2015-09-12" Tm="18:39" type="Std" amount="6.00" cmd="1" />
+<BOLUS Dt="2015-09-12" Tm="16:46" type="Std" amount="5.60" cmd="1" />
+<BOLUS Dt="2015-09-12" Tm="13:39" type="Std" amount="4.50" cmd="1" />
+<BASAL Dt="2015-09-12" Tm="12:44" cbrf="0.65" profile="1" remark="TBR End (cancelled)" />
+<BASAL Dt="2015-09-12" Tm="11:32" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 01:12 h" />
+<BASAL Dt="2015-09-12" Tm="11:32" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-12" Tm="11:00" cbrf="0.26" profile="1" TBRdec=" 40%" />
+<BASAL Dt="2015-09-12" Tm="10:03" cbrf="0.30" profile="1" TBRdec=" 40%" cmd="2" remark="dur 01:29 h" />
+<BASAL Dt="2015-09-12" Tm="10:03" cbrf="0.74" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-12" Tm="10:03" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:00 h" />
+<BASAL Dt="2015-09-12" Tm="10:03" cbrf="0.74" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-12" Tm="10:02" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:01 h" />
+<BOLUS Dt="2015-09-12" Tm="10:02" type="Std" amount="1.80" cmd="2" />
+<BASAL Dt="2015-09-12" Tm="10:00" cbrf="0.74" profile="1" />
+<BOLUS Dt="2015-09-12" Tm="09:52" type="Std" amount="4.00" cmd="1" />
+<BASAL Dt="2015-09-12" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-09-12" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-09-12" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-09-12" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-11" Tm="" type="" amount="28.20" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-11" Tm="" type="" amount="44.69" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-11" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-11" Tm="22:31" type="Std" amount="2.50" cmd="1" />
+<BOLUS Dt="2015-09-11" Tm="22:19" type="Std" amount="1.50" cmd="2" />
+<BOLUS Dt="2015-09-11" Tm="19:15" type="Std" amount="3.00" cmd="1" />
+<BOLUS Dt="2015-09-11" Tm="16:11" type="Std" amount="1.80" cmd="2" />
+<BOLUS Dt="2015-09-11" Tm="14:55" type="Std" amount="1.70" cmd="2" />
+<BOLUS Dt="2015-09-11" Tm="12:40" type="Std" amount="2.60" cmd="1" />
+<BASAL Dt="2015-09-11" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-09-11" Tm="10:08" type="Std" amount="2.50" cmd="2" />
+<BASAL Dt="2015-09-11" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-09-11" Tm="09:00" cbrf="0.75" profile="1" />
+<BOLUS Dt="2015-09-11" Tm="07:00" type="Std" amount="9.20" cmd="1" />
+<BASAL Dt="2015-09-11" Tm="07:00" cbrf="0.90" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-11" Tm="07:00" cbrf="0.00" profile="1" TBRdec="  0%" />
+<BASAL Dt="2015-09-11" Tm="06:30" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 00:30 h" />
+<BOLUS Dt="2015-09-11" Tm="06:12" type="Std" amount="1.00" />
+<BASAL Dt="2015-09-11" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-09-11" Tm="03:19" type="Std" amount="2.40" />
+<BASAL Dt="2015-09-11" Tm="00:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-10" Tm="" type="" amount="20.00" remark="Bolus Total"/>
+<BOLUS Dt="2015-09-10" Tm="" type="" amount="27.77" remark="Bolus+Basal Total"/>
+<BASAL Dt="2015-09-10" Tm="23:00" cbrf="0.70" profile="1" />
+<BOLUS Dt="2015-09-10" Tm="22:27" type="Std" amount="1.80" />
+<BOLUS Dt="2015-09-10" Tm="20:42" type="Std" amount="2.00" />
+<BASAL Dt="2015-09-10" Tm="20:25" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-10" Tm="19:25" cbrf="0.00" profile="1" TBRdec="  0%" remark="dur 01:00 h" />
+<BOLUS Dt="2015-09-10" Tm="19:19" type="Std" amount="1.20" cmd="1" />
+<BASAL Dt="2015-09-10" Tm="18:52" cbrf="0.65" profile="1" remark="TBR End" />
+<BASAL Dt="2015-09-10" Tm="18:07" cbrf="0.00" profile="1" TBRdec="  0%" cmd="2" remark="dur 00:45 h" />
+<BOLUS Dt="2015-09-10" Tm="16:17" type="Std" amount="2.50" cmd="2" />
+<BOLUS Dt="2015-09-10" Tm="12:07" type="Std" amount="8.00" cmd="1" />
+<BASAL Dt="2015-09-10" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-09-10" Tm="10:58" type="Std" amount="2.00" />
+<BOLUS Dt="2015-09-10" Tm="10:27" type="Std" amount="2.50" />
+</IPDATA>
+<IPDATA_REMOVED FromDt="2015-10-25" FromTm="00:00" ToDt="2015-10-25" ToTm="13:56">
+<BASAL Dt="2015-10-25" Tm="13:56" cbrf="0.65" profile="1" remark="time / date corrected" />
+<BASAL Dt="2015-10-25" Tm="13:54" cbrf="0.65" profile="1" cmd="2" remark="Run" />
+<BASAL Dt="2015-10-25" Tm="13:53" cbrf="0.00" cmd="2" remark="Stop" />
+<BOLUS Dt="2015-10-25" Tm="11:18" type="Std" amount="7.50" cmd="1" />
+<BASAL Dt="2015-10-25" Tm="11:00" cbrf="0.65" profile="1" />
+<BOLUS Dt="2015-10-25" Tm="10:01" type="Std" amount="2.80" cmd="1" />
+<BASAL Dt="2015-10-25" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-25" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-10-25" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-25" Tm="05:00" cbrf="0.80" profile="1" />
+<BASAL Dt="2015-10-25" Tm="00:00" cbrf="0.70" profile="1" />
+</IPDATA_REMOVED>
+<IPDATA_REMOVED FromDt="2015-10-02" FromTm="00:00" ToDt="2015-10-02" ToTm="17:24">
+<BASAL Dt="2015-10-02" Tm="17:24" cbrf="0.65" profile="1" remark="time / date corrected" />
+<BOLUS Dt="2015-10-02" Tm="12:30" type="Std" amount="2.70" cmd="1" />
+<BASAL Dt="2015-10-02" Tm="11:00" cbrf="0.65" profile="1" />
+<BASAL Dt="2015-10-02" Tm="10:00" cbrf="0.74" profile="1" />
+<BASAL Dt="2015-10-02" Tm="09:00" cbrf="0.75" profile="1" />
+<BASAL Dt="2015-10-02" Tm="07:00" cbrf="0.90" profile="1" />
+<BASAL Dt="2015-10-02" Tm="05:00" cbrf="0.80" profile="1" />
+<BOLUS Dt="2015-10-02" Tm="04:35" type="Std" amount="0.50" cmd="1" />
+<BOLUS Dt="2015-10-02" Tm="00:59" type="Std" amount="5.00" cmd="1" />
+<BASAL Dt="2015-10-02" Tm="00:00" cbrf="0.70" profile="1" />
+</IPDATA_REMOVED>
+<STATISTIC>
+<ST_TIMERANGE Weeks="2" Dt="2015-11-25"/>
+<ST_USETIME_PERCENT Val="100"/>
+<ST_BASAL_IU Val="17.1"/>
+<ST_BASAL_PERCENT Val="39"/>
+<ST_BOLUSFREQ Val="7.6"/>
+<ST_BOLUS_IU Val="26.9"/>
+<ST_BOLUS_PERCENT Val="61"/>
+</STATISTIC>
+<CHECK CRC="E6E1"/>
+</IMPORT>
