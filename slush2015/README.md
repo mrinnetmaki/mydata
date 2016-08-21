@@ -1,4 +1,4 @@
-I'm publishing this rich set of data to be used as one possible data source in the Mydata2016 Ultrahack hackathon (http://mydata2016.org/ultrahack/).
+I'm publishing this rich set of my personal health data to be used as a data source in the Ultrahack hackathon of the MyData2016 conference (http://mydata2016.org/ultrahack/).
 
 It would be awesome to see all this data visualized in fresh new ways.
 
