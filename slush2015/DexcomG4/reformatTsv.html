@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+text {
+  font: 10px sans-serif;
+}
+
+</style>
+<body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+var cgmData = 'raw/Rinnetm%C3%A4ki%2C%20Mikael%20%5BSM40546345%5D%20%7B287AA67F%7D.Export.txt';
+
+function parseGlucoseEntry(entry) {
+  var value;
+  if (entry.GlucoseValue === 'Low') {
+    value = 2.2;
+  } else if (entry.GlucoseValue === 'High') {
+    value = 22.0;
+  } else {
+    value = +entry.GlucoseValue;
+  }
+  return {
+    time: d3.timeParse('%Y-%m-%d %H:%M:%S')(entry.GlucoseDisplayTime).getTime(),
+    value: value
+  };
+}
+
+fetch(cgmData).then(function(response) {
+  return response.ok ? response.text() : Promise.reject(response.status);
+}).then(function(text) {
+  console.log(d3.csvFormat(d3.tsvParse(text).map(parseGlucoseEntry)));
+}).catch(function(error) {
+  console.error(error);
+});
+</script>
