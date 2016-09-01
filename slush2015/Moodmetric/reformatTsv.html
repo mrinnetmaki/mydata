@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+text {
+  font: 10px sans-serif;
+}
+
+</style>
+<body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+var cgmData = 'raw/moodmetric-slush.tsv';
+
+function parseMmEntry(entry) {
+  return {
+    time: entry[1],
+    scrn: entry[2],
+    mm: entry[3],
+    scl: entry[4],
+    steps: entry[5],
+    aa: entry[6]
+  };
+}
+
+fetch(cgmData).then(function(response) {
+  return response.ok ? response.text() : Promise.reject(response.status);
+}).then(function(text) {
+  console.log(d3.csvFormat(d3.tsvParseRows(text).map(parseMmEntry)));
+}).catch(function(error) {
+  console.error(error);
+});
+</script>
